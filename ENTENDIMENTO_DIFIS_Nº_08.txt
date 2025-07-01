@@ -1,0 +1,540 @@
+ENTENDIMENTO DIFIS Nº 08, DE 21 DE FEVEREIRO DE 2017
+Processo  administrativo  sancionador.  Infrações
+envolvendo  questões  sobre  reembolso.  Dúvida
+acerca da natureza da demanda. Dúvida acerca da
+submissão de conduta ao artigo 77 ou 78 da
+Resolução Normativa - RN nº 124, de 2006.
+I – Introdução:
+1. Trata-se de Nota Técnica elaborada pela Assessoria Normativa da Diretoria de Fiscalização -
+DIFIS, com fundamento na Instrução Normativa – IN nº 12 da DIFIS, de 25 de janeiro de 2016, com
+o escopo de padronizar e uniformizar a atuação desta diretoria, discorrendo sobre os fundamentos,
+espécies,  características  e  os  elementos  do  instituto  do  reembolso,  bem  como  o  correto
+enquadramento das condutas infrativas decorrentes do tema.
+2. Diante do cenário apresentado, restou evidenciada a necessidade de elaboração de entendimento,
+de forma a tecer algumas considerações pertinentes sobre a questão e uniformizar o tema.
+II- Fundamentação:
+3. Como é sabido, o objeto principal dos contratos celebrados com as operadoras de planos de saúde
+é a assistência à saúde, garantida através do atendimento por profissionais ou serviços, integrantes
+ou não de sua rede, mediante pagamento direto ao prestador ou reembolso.
+4. Entretanto, o instituto do reembolso, embora largamente utilizado nas relações jurídicas firmadas
+entre as operadoras e seus beneficiários, não possui regulamentação própria, específica, sendo
+tratado acessoriamente em diversos diplomas legais e/ou normativos disciplinadores do mercado de
+saúde suplementar.
+5. Dessa forma, é imprescindível discorrer sobre os fundamentos, as espécies, as características e os
+elementos do instituto do reembolso.
+II.1. O instituto do reembolso na Lei n° 9.656/98:
+6. O instituto do reembolso está previsto no inciso I e no §1º do art. 1º da Lei nº 9.656, de 3 de junho
+de 1998, que dispõe sobre os planos e seguros privados de assistência à saúde:
+“Art. 1° Submetem-se às disposições desta Lei as
+pessoas jurídicas de direito privado que operam
+planos de assistência à saúde, sem prejuízo do
+cumprimento da legislação específica que rege a
+sua atividade, adotando-se, para fins de aplicação
+das  normas  aqui  estabelecidas,  as  seguintes
+definições: (Redação dada pela Medida Provisória
+nº 2.177-44, de 2001)
+I  -  Plano  Privado  de  Assistência  à  Saúde:
+prestação continuada de serviços ou cobertura de
+custos  assistenciais  a  preço  pré  ou  pós
+estabelecido,  por  prazo  indeterminado,  com  a
+finalidade de garantir, sem limite financeiro, a
+assistência à saúde, pela faculdade de acesso e
+atendimento  por  profissionais  ou  serviços  de
+saúde, livremente escolhidos, integrantes ou não
+de rede credenciada, contratada ou referenciada,
+visando  a  assistência  médica,  hospitalar  e
+odontológica, a ser paga integral ou parcialmente
+às  expensas  da  operadora  contratada,
+mediante reembolso  ou pagamento direto ao
+prestador, por conta e ordem do consumidor;
+(Incluído pela Medida Provisória nº 2.177-44, de
+2001).
+§ 1o Está subordinada às normas e à fiscalização
+da Agência Nacional de Saúde Suplementar - ANS
+qualquer  modalidade  de  produto,  serviço  e
+contrato que apresente, além da garantia de
+cobertura  financeira  de  riscos  de  assistência
+médica,  hospitalar  e  odontológica,  outras
+características  que  o  diferencie  de  atividade
+exclusivamente financeira, tais como: (Redação
+dada pela Medida Provisória nº 2.177-44, de
+2001)
+a) custeio de despesas; (Incluído pela Medida
+Provisória nº 2.177-44, de 2001)
+b)  oferecimento  de  rede  credenciada  ou
+referenciada;(Incluído pela Medida Provisória nº
+2.177-44, de 2001)
+c) reembolso  de despesas; (Incluído pela Medida
+Provisória nº 2.177-44, de 2001)
+d)  mecanismos  de  regulação;  (Incluído  pela
+Medida  Provisória  nº  2.177-44,  de  2001)
+e)  qualquer  restrição  contratual,  técnica  ou
+operacional para a cobertura de procedimentos
+solicitados  por  prestador  escolhido  pelo
+consumidor; e (Incluído pela Medida Provisória nº
+2.177-44, de 2001)
+f) vinculação de cobertura financeira à aplicação
+de  conceitos  ou  critérios  médico-assistenciais.
+(Incluído pela Medida Provisória nº 2.177-44, de
+2001)
+Art. 12. São facultadas a oferta, a contratação e a
+vigência dos produtos de que tratam o inciso I e o
+§ 1o do art. 1o desta Lei, nas segmentações
+previstas  nos  incisos  I  a  IV  deste  artigo,
+respeitadas  as  respectivas  amplitudes  de
+cobertura definidas no plano-referência de que
+trata o art. 10, segundo as seguintes exigências
+mínimas:
+(...)
+VI - reembolso, em todos os tipos de produtos de
+que tratam o inciso I e o § 1o do art. 1o desta
+Lei, nos limites das obrigações contratuais,
+das despesas efetuadas pelo beneficiário com
+assistência à saúde, em casos de urgência ou
+emergência , quando não for possível a utilização
+dos serviços próprios, contratados, credenciados
+ou referenciados pelas operadoras, de acordo
+com a relação de preços de serviços médicos
+e  hospitalares  praticados  pelo  respectivo
+produto, pagáveis no prazo máximo de trinta
+dias  após  a  entrega  da  documentação
+adequada ;  (grifou-se)
+II.2. O reembolso no âmbito da Garantia de Atendimento – RN nº 259/2011
+7. A Resolução Normativa - RN n° 259, de 17 de junho de 2011, que dispõe sobre a garantia de
+atendimento dos beneficiários de planos privado de assistência à saúde, contém as seguintes
+disposições sobre reembolso:
+Art.  9º  Na  hipótese  de  descumprimento  do
+disposto  nos  arts.  4º,  5º  ou  6º,  caso  o
+beneficiário seja obrigado a pagar os custos
+do  atendimento,  a  operadora  deverá
+reembolsá-lo integralmente no prazo de até
+30 (trinta) dias , contado da data da solicitação
+de  reembolso,  inclusive  as  despesas  com
+transporte. (Redação dada pela RN nº 268, de
+02/09/2011)
+§ 1º Para todos os produtos que prevejam a
+opção  de  acesso  a  livre  escolha  de
+prestadores, o reembolso será efetuado nos
+limites  do  estabelecido
+contratualmente .(Redação dada pela RN nº 268,
+de 02/09/2011)
+§ 2º Nos produtos onde haja previsão de
+acesso a livre escolha de prestadores, quando
+o procedimento solicitado pelo beneficiário
+não  estiver  disposto  na  cláusula  de
+reembolso ou quando não houver previsão
+contratual de tabela de reembolso, deverá ser
+observada a regra disposta no caput deste
+artigo.  (Redação  dada  pela  RN  nº  268,  de
+02/09/2011)
+§ 3º Nos contratos com previsão de cláusula de
+co-participação, este valor poderá ser deduzido do
+reembolso pago ao beneficiário. (Redação dada
+pela RN nº 268, de 02/09/2011)
+§ 4º Nas hipóteses em que existe responsabilidade
+da operadora em transportar o beneficiário, caso
+este seja obrigado a arcar com as despesas de
+transporte,  a  operadora  deverá  reembolsa-lo
+integralmente. (Redação dada pela RN nº 268, de
+02/09/2011) (grifou-se)
+II.3. Das cláusulas contratuais obrigatórias sobre reembolso (IN/DIPRO n° 23/2009)
+8. O manual de elaboração dos contratos de planos de saúde, constante do Anexo I da Instrução
+Normativa – IN n° 23, de 1 de dezembro de 2009, da Diretoria de Normas e Habilitação dos
+Produtos – DIPRO contém as seguintes disposições sobre reembolso:
+Tema  VIII  –  Atendimento  de  Urgência  e
+Emergência:
+F)  Em  planos  de  todas  as  segmentações,  o
+contrato deve dispor sobre:
+1. a garantia do reembolso, nos casos de
+urgência e emergência , quando não for possível
+a  utilização  dos  serviços  próprios  ou
+contratualizados, dentro da área geográfica de
+abrangência e atuação do plano (artigo 12, VI, da
+Lei 9656/1998);
+2. a garantia de que o valor do reembolso nas
+urgências e emergências não seja inferior ao
+valor praticado pela operadora junto à rede
+de prestadores do respectivo plano  (artigo 12,
+VI, da Lei 9656/1998);
+3. a relação dos documentos necessários para
+o reembolso , assegurando que o seu pagamento
+será efetuado em até trinta dias da entrega destes
+documentos;
+Tema IX - ACESSO A LIVRE ESCOLHA DE
+PRESTADORES
+Os contratos de planos de saúde que permitem
+acesso a livre escolha de prestadores devem:
+A) Indicar as coberturas que o consumidor
+poderá utilizar no sistema de acesso a livre
+escolha de prestadores  não participantes da
+rede assistencial, própria ou contratualizada, na
+forma do item 9 do Anexo II da RN 100/2005 e
+conforme cadastrado na ANS.
+B)  Conter  cláusula  clara  com  todas  as
+informações necessárias para que o próprio
+consumidor possa calcular o quanto receberá
+de reembolso . Deste modo, a operadora deve
+trazer, conforme o caso; fórmula, juntamente com
+as descrições de seus componentes tais como:
+múltiplo de reembolso, unidade de reembolso,
+textos  explicativos  a  respeito  do  modo  de
+efetivação  do  cálculo  etc.
+C) A tabela utilizada para o cálculo do valor
+de reembolso deve ser amplamente divulgada
+pela operadora , para tanto deverá indicar no
+contrato:
+1. além do registro em cartório, pelo menos mais
+dois meios de divulgação da tabela, dentre os
+seguintes: acesso à tabela no sítio da operadora
+na internet; disponibilização da tabela na sede da
+contratante em planos coletivos, para consulta
+dos beneficiários; disponibilização da tabela na
+sede  da  operadora,  para  consulta  dos
+beneficiários;
+2. os meios de esclarecimento desta tabela, por
+exemplo, através de atendimento por telefone ao
+consumidor;
+3. para melhor compreensão dos beneficiários, a
+operadora  poderá  ainda  estabelecer  em  seu
+contrato  uma  tabela  exemplificativa  com  os
+valores  dos  procedimentos  mais  utilizados.
+D) Dispor que o valor de reembolso das
+despesas médicas provenientes do sistema de
+livre escolha não será inferior ao praticado
+diretamente  na  rede  credenciada  ou
+referenciada  (inciso  IX,  artigo  2º,  Resolução
+CONSU  08/1998,  acrescentado  pelo  inciso  V,
+artigo 1º, da Resolução CONSU 15/1998).
+E) Estipular prazo de reembolso, observando
+o prazo máximo de 30 dias após a entrega da
+documentação  adequada  (aplicação  por
+analogia  do  inciso  VI,  artigo  12,  da  Lei
+9656/1998).
+F) Informar como ocorrem os reajustes dos
+valores  de  reembolso  ou  da  unidade  de
+serviço , conforme o tipo de tabela utilizado pela
+operadora.
+G) É vedado o reembolso diferenciado por
+prestador, uma vez que tal prática restringe a
+livre escolha de prestadores .
+II.4. Da correta tipificação das infrações relacionadas ao reembolso
+9. As condutas infrativas eventualmente praticadas nos casos envolvendo o reembolso das despesas
+efetuadas com a assistência à saúde, podem, dependendo de cada situação, se enquadradas nos
+tipos previstos nos artigos 77 ou 78 da RN nº 124/2006:
+“Benefícios de Acesso ou Cobertura
+Art. 77. Deixar de garantir ao beneficiário acesso
+ou cobertura previstos em lei: (Redação dada pela
+RN nº 396, de 25/01/2016)
+Sanção – multa de R$ 80.000,00.
+Obrigações de Natureza Contratual
+Art. 78. Deixar de garantir aos beneficiários de
+planos  privados  de  assistência  à  saúde  o
+cumprimento  de  obrigação  de  natureza
+contratual: (Redação dada pela RN nº 396, de
+25/01/2016)
+Sanção – multa de R$ 60.000,00."
+10. De fato, a definição se determinada conduta da operadora configura infração do artigo 77 ou 78
+da RN nº 124/06 é matéria controversa e carece de uniformização. Deve-se ter em mente que o
+artigo 77 trata dos casos diretamente relacionados ao acesso ou cobertura do rol dos procedimentos
+e eventos em saúde, já o artigo 78 diz respeito à cobertura de procedimentos e eventos previstas no
+contrato firmado entre a operadora e seu beneficiário.
+II.5. Da caracterização da demanda como assistencial ou não assistencial
+11. Outra questão enfrentada pelo fiscal, ao analisar um caso, diz respeito à caracterização da
+demanda como assistencial ou não assistencial. Os conceitos de demanda assistencial e demanda
+não assistencial podem ser extraídos da dicção do art. 5º, parágrafo único, inciso I da RN n°
+388/20151:
+a. que estabelece que a NIP assistencial tem como referência toda e qualquer restrição de acesso à
+cobertura assistencial;
+b. NIP não assistencial tem como referência outros temas que não a cobertura assistencial, desde
+que o beneficiário seja diretamente afetado pela conduta e a situação seja passível de intermediação.
+12. Logo, infere-se que as condutas relacionadas à infração prevista no art. 77 da RN nº
+124/06 são, em regra, de natureza assistencial. Por outro lado, as condutas relacionadas à
+infração prevista no art. 78 da RN n 124/06 são, em regra, de natureza não assistencial.
+II.6. Dos documentos necessários para a efetivação do reembolso quando o contrato não
+contiver previsão específica:
+13. Nos contratos de planos de saúde de todas as segmentações, conforme disposições específicas
+do Anexo I da IN/DIPRO n° 23/2009, colacionadas no item II.3, deve ser elencada a relação dos
+documentos necessários para a solicitação do reembolso.
+14. A definição de tais documentos para o pedido de reembolso visa prestigiar a comutatividade2,
+característica imprescindível nos contratos onerosos e bilaterais.
+15. Contudo, não obstante a obrigatoriedade de constar expressamente dos contratos a relação dos
+documentos necessários para a efetivação do reembolso, os agentes da fiscalização frequentemente
+se deparam com contratos silentes quanto a esta questão.
+16. Nesse caso, a omissão contratual gera grave desequilíbrio ao contrato, colocando o beneficiário
+em uma posição concreta de vulnerabilidade3, pois a operadora acaba definindo de forma unilateral,
+através de procedimentos internos, quais são os documentos necessários para o procedimento de
+reembolso.
+17. A análise nos processos administrativos sancionadores deve ser sensível a esses argumentos, e
+de forma a garantir o equilíbrio e a segurança jurídica de tal relação, demonstra-se imperioso ao
+menos nortear, para fins de fiscalização, quais elementos devem constar da solicitação de
+reembolso, segundo a analogia, os costumes e os princípios gerais do direito, na forma do art. 4º do
+Decreto-Lei 4.657/42 (LINDB)4.
+18. Assim, é razoável considerar que, na omissão contratual, a operadora poderá exigir que
+o pedido de reembolso deva ser instruído, ao menos, com qualquer documento hábil e
+idôneo que comprove a efetiva ocorrência da despesa, identifique o beneficiário e o
+procedimento executado, inclusive a data em que foi realizado. Ainda, nos casos de
+serviços e procedimentos que contenham Diretriz de Utilização – DUT estabelecidas, pode
+ser exigido também laudo ou atestado médico ou outro documento equivalente, emitido
+pelo profissional que solicitou ou realizou o serviço ou procedimento, atestando seu
+cumprimento.
+19. Ressalta-se que a exigência de tais informações são consideradas razoáveis uma vez que são
+também utilizadas como parâmetro pela ANS nos campos de preenchimento das guias de solicitação
+de eventos e procedimentos do Componente de Conteúdo e Estrutura do Padrão TISS versão
+201609, previsto na RN nº 305 de 20125.
+20. Por fim, a operadora poderá dispensar a apresentação de quaisquer dos documentos acima,
+devendo ficar claro que documentos distintos dos tratados acima só podem ser exigidos como
+condição de reembolso caso haja previsão contratual específica.
+III. Das hipóteses de reembolso:
+III.1. Contrato que prevê a livre escolha de prestadores, com o reembolso das despesas
+efetuadas (opção de acesso à livre escolha):
+21. Considerando as características dos produtos previstos no inciso I e o §1º do art. 1º da Lei
+9.656/98, é facultada às operadoras a comercialização de produtos com a previsão contratual de
+livre escolha de prestadores, com o reembolso das despesas efetuadas, independentemente da
+existência de rede credenciada/referenciada.
+22. Tais contratos, na forma das disposições específicas do Anexo I da IN 23/2009 transcritas na
+seção II.3, devem, entre outras disposições:
+(i) indicar as coberturas que o consumidor poderá utilizar no sistema de acesso a livre escolha de
+prestadores, ou seja, não participantes de sua rede assistencial, própria ou contratualizada;
+(ii) conter a tabela utilizada para o cálculo do valor do reembolso;
+(iii) estipular o prazo para o reembolso, que não pode ultrapassar o prazo máximo de 30 (trinta) dias
+contados da entrega da documentação adequada, entendida como a documentação prevista no
+contrato para a solicitação de reembolso.
+23. Estando presentes as disposições acima, o reembolso deve ser efetuado nos limites
+estabelecidos no contrato firmado entre a Operadora e o contratante/beneficiário , já que tal
+previsão decorre de um acordo entre as partes.
+24. Todavia, nas hipóteses em que haja previsão da livre escolha de prestadores, mas o contrato não
+contenha as disposições acima elencadas, deverão ser observadas, na ausência de disciplina
+específica, por analogia, as regras previstas no art. 9º, §2º da RN nº 259/2011, colacionado no item
+II.2.
+25. Dessa forma, nos casos em que o contrato firmado entre as partes não contiver
+adequadamente as disposições elencadas acima, o reembolso deverá ser integral e
+realizado no prazo de até 30 (trinta) dias, contado da data da solicitação do reembolso ,
+inclusive as despesas com transporte.
+III.2. Do reembolso pelo descumprimento dos prazos máximos da garantia de atendimento:
+26. A partir da vigência da RN nº 259/2011, as operadoras de planos de saúde passaram a ter a
+obrigação de oferecer cobertura assistencial a todos os procedimentos previstos no Rol de
+Procedimentos e Eventos em Saúde da ANS, para atendimento integral da cobertura prevista nos
+artigos 10, 10-A e 12, da Lei n° 9.656, de 1998, de acordo com a segmentação assistencial, área
+geográfica de abrangência e área de atuação do produto, dentro dos prazos definidos pela ANS.
+27. Para garantir a assistência oferecida nos produtos, as operadoras devem formar uma rede de
+prestadores, seja própria ou contratada, compatível com a demanda e com a área de abrangência do
+plano, capaz de atender às solicitações dos beneficiários nos prazos regulamentares, respeitando o
+que foi contratado.
+28. Contudo, há casos em que a rede prestadora da operadora não consegue realizar os
+atendimentos aos beneficiários nos prazos definidos no citado normativo, quando os beneficiários
+acabam tendo que pagar os custos do atendimento para acessá-lo.
+29. Nestas hipóteses, o reembolso se dará na forma prevista na seção II.2, ou seja, a
+operadora deverá reembolsar o beneficiário integralmente, no prazo máximo de 30 (trinta)
+dias, contado da data da solicitação de reembolso, os custos do atendimento, inclusive as
+despesas com transporte.
+30. Ressalta-se que, nos casos em que o produto, o qual o beneficiário estiver vinculado, preveja a
+opção de acesso a livre escolha de prestadores, observar-se-á, conforme o caso, o disposto na seção
+III.1 deste entendimento:
+a. Se o contrato contiver os requisitos elencados no item 22 da seção III.1, o reembolso será
+efetuado nos limites do estabelecido contratualmente, conforme §1°, do art. 9° da RN n° 259/2011;
+b. Se o contrato não contiver os requisitos elencados no item 22 da seção III.1, o reembolso será
+integral e realizado no prazo máximo de 30 (trinta) dias, contado da data da solicitação, inclusive as
+despesas de transporte, conforme §2°, do art. 9° da RN n° 259/2011.
+III.3. Do reembolso de urgência e emergência:
+31. Tal modalidade de reembolso, que ocorre quando não for possível a utilização da rede
+credenciada/referenciada, em casos de urgência e emergência, com exceção dos tratados no item
+III.4, é obrigatória em todos os planos privados de assistência à saúde e é disciplinada pela
+legislação colacionada no item II.1 e II.3 (tema VIII, “F” do Anexo I da IN/DIPRO n° 23/2009,
+observadas as seguintes condições:
+a. reembolso das coberturas previstas no contrato firmado entre a operadora e o beneficiário ou no
+rol de procedimentos e eventos em saúde da ANS;
+b. de acordo com a relação de preços de serviços médicos e hospitalares praticados pelo respectivo
+produto (não seja inferior ao valor praticado pela operadora junto à rede de prestadores do
+respectivo plano);
+c. pagáveis no prazo máximo de trinta dias;
+d. após a entrega da documentação adequada (de acordo com a relação dos documentos necessários
+para o reembolso, previstos em contrato);
+e. quando não for possível a utilização dos serviços próprios ou contratualizados, dentro da área
+geográfica de abrangência e atuação do plano.
+III.4. Do reembolso em planos anteriores à Lei nº 9.656/98:
+32. Considerando que o artigo 35-E da Lei 9.656/98, que estabelece regras para os contratos
+celebrados anteriormente à sua data de vigência, teve sua eficácia suspensa a partir da publicação
+da decisão liminar do STF na ADIN 1931-8, em 03 de setembro de 2003, com base no princípio da
+irretroatividade da norma jurídica, passou a valer o que está disposto no contrato.
+33. Nesses casos, o contrato é verdadeiramente lei entre as partes e o reembolso deverá ser
+realizado exclusivamente conforme as disposições contratuais.
+IV. Casos práticos enfrentados pela fiscalização:
+34. Considerando que os casos apresentam particularidades que interferem na tipificação da
+conduta e que uma das finalidades dessa nota é esclarecer dúvida razoável quanto à configuração de
+infrações e/ou quanto à aplicação das penalidades correspondentes, em matéria cuja atribuição seja
+da DIFIS, opta-se por trazer exemplos concretos de casos envolvendo o instituto do reembolso:
+IV.1. Reembolso em Plano anterior à lei
+"Exemplo:
+Beneficiário entra em contato com a agência relatando que solicitou reembolso de R$470,00 relativo
+a aplicação da vacina “zoster” para herpes e este foi negado. Diz que o contrato, firmado em 1996,
+prevê vacinas sem qualquer distinção. Verifica-se que se trata de plano anterior a lei não adaptado e
+que há previsão contratual para o reembolso de tal procedimento, concluindo que a operadora
+negou indevidamente o reembolso.
+Configura-se infração ao art. 78, RN nº 124/06 – demanda de natureza assistencial."
+35. Infrações envolvendo reembolso, nesses casos, por consequência, são tipificadas no art. 78 da
+RN nº 124/06, pois resultam de descumprimento contratual, podendo ter natureza assistencial, como
+no caso em tela, ou não assistencial, na hipótese em que houver mera divergência de valores.
+IV.2. Reembolso de procedimento, de cobertura não obrigatória, mas previsto em contrato
+"Exemplo:
+Beneficiário entra em contato com a agência reclamado que não recebeu reembolso. Relata que
+solicitou reembolso de R$1.450,00 relativo a exame genético, mas operadora negou alegando que
+não consta na relação da ANS. Diz ainda que, em seu contrato, há a previsão geral de exames,
+inclusive genéticos, desde que mediante fundamentação do médico, o que foi exatamente o que
+aconteceu. Verifica-se que se trata de plano com previsão contratual de cobertura além do Rol de
+Procedimentos e Eventos em Saúde da ANS. Operadora negou indevidamente o reembolso.
+Configura-se infração ao art. 78, RN nº 124/06 – demanda de natureza assistencial."
+36. Nos casos em que a demanda trata de um reembolso devido em razão de um procedimento que
+não consta do Rol de Procedimentos e Eventos em Saúde da ANS (atualmente estabelecido pela RN
+nº 387/2015), mas previsto em contrato, a conduta será tipificada no art. 78 da RN nº 124/06, pois
+resulta de descumprimento contratual, podendo ter natureza assistencial, como no caso em tela, ou
+não assistencial, na hipótese em que houver mera divergência de valores.
+IV.3. Reembolso de procedimento, de cobertura obrigatória, em contratos que não preveem
+livre escolha
+"Exemplo:
+Beneficiário entra em contato com a agência reclamando falta de atendimento/prestadores. Relata
+que teve que fazer cirurgia urgente de apendicite em clínica particular. Diz que entrou,
+previamente, em contato com a operadora e esta não disponibilizou um prestador para realizar o
+atendimento no prazo da RN 259. Agora a operadora está negando o reembolso. Verifica-se que se
+trata de plano que não prevê livre escolha.
+Configura-se infração ao art. 77, RN nº 124/06 – demanda de natureza assistencial"
+37. Caso a operadora não disponibilize o prestador para realização do procedimento, bem como não
+realize o reembolso na forma prevista no artigo 9º da RN nº 259/2011, a infração caracterizada será
+a prevista no artigo. 77 da RN nº 124/06, por se tratar de negativa de cobertura, e a demanda
+deverá ser classificada como demanda assistencial.
+38. Ressalte-se que neste tipo de contrato, caso o beneficiário opte por livre escolha de uma equipe
+médica, não haverá obrigação de reembolso por parte da operadora, inclusive em relação aos
+honorários do médico anestesista ou instrumentador, exceto nos casos em que ficar comprovada a
+solicitação destes profissionais pelo beneficiário à operadora e esta não os tenha disponibilizado.
+IV.4. Reembolso de procedimento, de cobertura obrigatória, em contratos exclusivamente
+de livre escolha
+39. Para os contratos que prevejam exclusivamente cobertura através de livre escolha do prestador
+pelo beneficiário sem a disponibilização de rede assistencial pela operadora, a correta tipificação e a
+natureza da demanda variará de acordo com cada uma dessas situações:
+a. Não reembolso ou ausência de resposta
+"Exemplo:
+Beneficiário entra em contato com a agência relatando que negaram o reembolso de uma tomografia
+solicitada pelo seu médico e realizada em prestador livremente escolhido. A seguradora diz que não
+foi apresentada a documentação exigida. Verifica-se que se trata de plano que prevê exclusivamente
+livre escolha e restou comprovado que a documentação exigida não constava no rol estabelecido no
+contrato. Operadora negou indevidamente o reembolso.
+Configura-se infração ao art. 77, RN nº 124/06 – demanda de natureza assistencial"
+40. Considerando que nos planos com acesso exclusivamente por livre escolha de prestadores a
+forma de acesso à cobertura ocorre por meio do reembolso, a operadora, ao não reembolsar o
+procedimento devido previsto no rol de procedimentos e eventos em saúde, nega a cobertura ao
+beneficiário, que culmina por arcar com seu custo integral. Nesse caso, sendo indevida a recusa em
+reembolsar, tem-se a infração enquadrada no artigo 77 da RN n° 124/2006 e a demanda deverá ser
+tratada como demanda assistencial.
+b. Reembolso parcial por divergência de valores
+"Exemplo:
+Beneficiário entra em contato com a agência reclamado que recebeu reembolso a menor. Relata que
+gastou R$1.000,00 e que foi reembolsado em apenas R$345,00. A operadora informou que o valor
+corresponde à média praticada no mercado. Verifica-se que se trata de plano que prevê
+exclusivamente livre escolha e não há tabela de valores prevista em contrato.
+Configura-se infração ao art. 78, RN 124/06 – demanda de natureza não assitencial"
+41. Nesses casos, quando o reembolso foi efetuado, mas o usuário discorda do valor recebido ou da
+fórmula utilizada para seu cálculo (não está de acordo com a cobertura contratada), tem-se uma
+questão eminentemente contratual, e por consequência, a demanda verá ser classificada como
+demanda não assistencial e tipificada no artigo 78 da RN n° 124/2006.
+c. Não reembolso de parte dos procedimentos
+"Exemplo:
+Beneficiário entra em contato com a agência reclamado que recebeu reembolso a menor. Relata que
+gastou R$1.000,00 porque realizou uma cirurgia em clínica particular, pagando a cirurgia e o
+anestesista. A operadora reembolsou apenas o valor de R$345,00 da cirurgia. Verifica-se que se
+trata de plano que prevê exclusivamente livre escolha. Verificou-se que a operadora não reembolsou
+o anestesista.
+Configura-se infração ao art. 77, RN nº 124/06 – demanda de natureza assistencial"
+42. Trata-se da situação em que há a solicitação de reembolso de diversos procedimentos
+necessários para a realização do procedimento principal e um, ou mais, não são reembolsados. A
+rigor, não são casos de reembolso parcial e sim de um ou mais reembolsos realizados corretamente
+concomitantes a um ou mais reembolsos negados indevidamente.
+43. Deste modo, caso a operadora deixe de reembolsar o valor relativo ao custeio de qualquer dos
+procedimentos requeridos, desde que efetivamente devidos, cuida-se de hipótese de demanda
+assistencial, prevista no art. 77 da RN n° 124/2006, uma vez que não se trata de mera discussão de
+valores.
+IV.5.  Reembolso  de  procedimento,  de  cobertura  obrigatória,  em  contratos  com
+oferecimento  de  rede  prestadora  e  com  opção  de  livre  escolha
+44. Nas situações em que o produto oferece uma rede credenciada/referenciada para a realização
+dos procedimentos e também a possibilidade de livre escolha de profissional ou estabelecimento de
+saúde, as demandas irão variar de acordo com a opção do beneficiário em utilização da rede da
+operadora ou da livre escolha do prestador:
+a. Opção por utilizar diretamente a rede credenciada/referenciada
+"Exemplo:
+Beneficiário entra em contato com a Agência alegando que, embora possua um plano com opção de
+livre escolha, demandou a operadora para ser atendido por um ortopedista, na forma da RN 259 e
+que não houve o atendimento. Relatou ainda que arcou com os custos do procedimento em prestador
+não constante na rede e que não houve qualquer resposta até a presente data sobre sua solicitação
+de reembolso, protocolado há 60 dias. A operadora não contestou as alegações.
+Configura-se infração ao art. 77, RN nº 124/06 – demanda de natureza assistencial"
+45. Nos casos em que os elementos presentes na demanda demonstrarem que o beneficiário optou
+por utilizar a rede credenciada/referenciada, a demanda deverá ser tratada conforme o disposto na
+seção IV.3, ou seja, a infração será a prevista no artigo. 77 da RN nº 124/06, por se tratar de
+negativa de cobertura, e a demanda deverá ser classificada como demanda assistencial.
+b. Opção por utilizar a livre escolha
+"Exemplo:
+Beneficiário entra em contato com a agência reclamado que recebeu reembolso a menor. Relata que
+teve que fez um exame em prestador escolhido fora da rede da operadora. Tal procedimento custou
+R$ 900,00, estando dentro do limite para reembolso deste procedimento, previsto no contrato que é
+de R$ 1000,00. A operadora reembolsou apenas R$500,00, dizendo existir fórmula no contrato que
+prevê o abatimento de 50% no valor em casos específicos. Verificou-se que não há norma clara e
+prevista de forma expressa autorizando a redução deste valor.
+Configura-se infração ao art. 78, RN nº 124/06 – demanda de natureza não assistencial"
+46. Nos casos em que os elementos presentes na demanda demonstrarem que o beneficiário optou
+diretamente pela livre escolha, escolhendo ser atendido por profissional fora da rede, as demandas
+deverão ser tratadas na forma da seção IV.4.
+47. Logo, a natureza das demandas e a correta tipificação variará de acordo com cada uma das
+situações previstas: (i) não reembolso ou ausência de resposta – demanda assistencial, tipificada no
+art. 77 da RN nº 124/06; (ii) reembolso parcial por divergência de valores – demanda não
+assistencial, tipificada no art. 78 da RN nº 124/06 e (iii) não reembolso de parte dos procedimentos –
+demanda assistencial, tipificada no art. 77 da RN nº 124/06.
+III - Conclusão
+48. Ante o exposto, a natureza da demanda, bem como a correta tipificação devem ser analisadas
+conforme a situação concreta, aplicando-se, em suma, os seguintes entendimentos:
+a. Reembolso em plano anterior à lei  – Independente da natureza da demanda, a conduta será
+tipificada no art. 78 da RN nº 124/06 (seção IV.1).
+b. Reembolso de procedimento, de cobertura não obrigatória, mas previsto em contrato  -
+Independente da natureza da demanda, a conduta será tipificada no art. 78 da RN nº 124/06 (seção
+IV.2).
+c. Reembolso de procedimento, de cobertura obrigatória, em contratos que não preveem
+livre escolha  – Demanda assistencial, tipificada no art. 77 da RN nº 124/06 (seção IV.3).
+d. Reembolso de procedimento, de cobertura obrigatória, em contratos exclusivamente de
+livre escolha  – Variará conforme a situação:
+i. Não reembolso ou ausência de resposta – demanda assistencial, tipificada no art. 77 da RN n°
+124/06 (seção IV.4.a);
+ii. Reembolso parcial por divergência de valores – demanda não assistencial, tipificada no art. 78 da
+RN nº 124/06 (seção IV.4.b);
+iii. Não reembolso de parte de procedimentos – demanda assistencial, tipificada no art. 77 da RN nº
+124/06 (seção IV.4.c).
+e. Reembolso de procedimento, de cobertura obrigatória, em contratos com oferecimento
+de rede prestadora e com opção de livre escolha  – Variará conforme a opção do beneficiário:
+i. Opção por utilizar diretamente a rede credenciada/referenciada – demanda assistencial, tipificada
+no art. 77 da RN nº 124/06 (seção IV.5.a).
+ii. Opção por utilizar a livre escolha – variará conforme a situação (seção IV.5.b):
+• Não reembolso ou ausência de resposta - demanda assistencial, tipificada no art. 77 da RN n°
+124/06;
+• Reembolso parcial por divergência de valores – demanda não assistencial, tipificada no art. 78 da
+RN nº 124/06;
+• Não reembolso de parte de procedimentos – demanda assistencial, tipificada no art. 77 da RN nº
+124/06.
+SIMONE SANCHES FREIRE
+DIRETORA DE FISCALIZAÇÃO
+1  Art. 5º O procedimento da Notificação de Intermediação Preliminar – NIP consiste em um instrumento que visa à
+solução de conflitos entre beneficiários e Operadoras de planos privados de assistência à saúde - operadoras, inclusive as
+administradoras de benefícios, constituindo-se em uma fase pré-processual.
+Parágrafo único. A NIP é classificada em:
+I - NIP assistencial: a notificação que terá como referência toda e qualquer restrição de acesso à cobertura assistencial; e
+II - NIP não assistencial: a notificação que terá como referência outros temas que não a cobertura assistencial, desde que
+o beneficiário seja diretamente afetado pela conduta e a situação seja passível de intermediação.
+2  Contrato comutativo é, pois, o oneroso e bilateral, em que cada contraente, além de receber do outro prestação
+relativamente equivalente à sua, pode verificar, de imediato, essa equivalência (Maria Helena Diniz, Tratado, cit., v.1, p.
+101).
+3  Situação permanente ou provisória, individual ou coletiva, que fragiliza, enfraquece o sujeito de direitos,
+desequilibrando a relação de consumo. Vulnerabilidade é uma característica, um estado do sujeito mais fraco, um sinal
+de necessidade de proteção (MARQUES, Cláudia Lima, Manual de direito do consumidor, p. 87).
+4  Art. 4°  Quando a lei for omissa, o juiz decidirá o caso de acordo com a analogia, os costumes e os princípios gerais de
+direito.
+5  Nessas solicitações, se observa a presença de 6 (seis) grupos principais de informações nas solicitações encaminhadas
+às operadoras: (i) dados de beneficiário; (ii) dados do solicitante; (iii) dados da solicitação/procedimentos solicitados; (iv)
+dados do executante; (v) dados da execução/procedimentos executados e (vi) identificação do profissional executante.
+6  Princípio da Obrigatoriedade da Convenção: As estipulações feitas no contrato deverão ser fielmente cumpridas (“pacto
+sunt servanda”). O contrato validamente estipulado é lei entre as partes, sendo intangível e imutável, a menos que as
+partes, em comum acordo, venham a distratá-lo ou haja escusa por motivo de força maior ou caso fortuito.

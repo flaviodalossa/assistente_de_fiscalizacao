@@ -1,0 +1,618 @@
+ANS - LEGISLAÇÃO
+INSTRUÇÃO NORMATIVA – IN Nº 23 DE 1 DE DEZEMBRO DE 2009
+DA DIRETORIA DE NORMAS E HABILITAÇÃO DOS PRODUTOS
+(Revogada pela
+IN Nº 28, DE 16/12/22
+)
+Dispõe sobre os procedimentos do Registro de Produtos, previstos na
+Resolução Normativa - RN nº 85
+, de 7 de dezembro de 2004, e revoga as Instruções Normativas – INs DIPRO
+nº 15
+, de 14 de dezembro de 2007, e a
+nº 17
+, de 17 de dezembro de 2008.
+[Anexo da IN/DIPRO nº 23]
+[Índice]
+[Correlações]
+[Alterações]
+[Revogações]
+O Diretor responsável pela Diretoria de Normas e Habilitação dos Produtos - DIPRO da Agência Nacional de Saúde Suplementar - ANS, em vista do que dispõem a alínea “a” do inciso I do artigo 85, da
+Resolução Normativa – RN n° 197
+, de 16 de julho de 2009, bem como os artigos 3º; 13, § 1º; 22; 23, inciso I; 33; 37 e o Anexo II da
+RN nº 85
+, 7 de dezembro de 2004, alterada pelas
+Resoluções Normativas nº 100
+, 3 de junho de 2005,
+nº 124
+, de 30 de março de 2006,
+nº 144
+, de 2 de janeiro de 2007,
+nº 160
+, de 3 de julho de 2007,
+nº 175
+, de 22 de setembro de 2008,
+nº 189
+, de 2 de abril de 2009, e
+nº 196
+, de 14 de julho de 2009, resolve:
+CAPÍTULO I
+DAS DISPOSIÇÕES PRELIMINARES
+Art. 1º A presente Instrução Normativa tem por objeto estabelecer normas sobre os procedimentos para concessão, manutenção e cancelamento dos registros dos produtos junto à ANS de que trata a
+Resolução Normativa – RN n° 197
+, de 16 de julho de 2009, bem como os artigos 3º; 13, § 1º; 22; 23, inciso I; 33; 37 e o Anexo II da
+RN nº 85
+, 7 de dezembro de 2004, alterada pelas
+Resoluções Normativas nº 100
+, 3 de junho de 2005,
+nº 124
+, de 30 de março de 2006,
+nº 144
+, de 2 de janeiro de 2007,
+nº 160
+, de 3 de julho de 2007,
+nº 175
+, de 22 de setembro de 2008,
+nº 189
+, de 2 de abril de 2009, e
+nº 196
+, de 14 de julho de 2009, e revogar as Instruções Normativas – INs
+nº 15
+, de 14 de dezembro de 2007, e a
+nº 17
+, de 17 de dezembro de 2008.
+CAPÍTULO II
+DAS DISPOSIÇÕES GERAIS
+Seção I
+Da Solicitação do Registro de Produto
+Art. 2º Para obtenção do registro de produto, é necessário o envio das informações previstas na
+RN n° 85
+, de 2004, e suas posteriores alterações, pelo aplicativo Registro de Planos de Saúde (RPS), na última versão disponível no endereço eletrônico
+www.ans.gov.br
+, e o encaminhamento dos seguintes documentos:
+I - documento de solicitação de registro de produto, assinado e com identificação do representante da operadora junto à ANS, contendo o Nome Comercial do(s) produto(s) informado(s) no aplicativo; e
+II - comprovante de incorporação de informações emitido na “Verificação de Incorporação de Dados”, no endereço eletrônico
+www.ans.gov.br
+.
+III – O Planejamento Assistencial do Produto, conforme artigo 7º-A e na forma do Anexo V da presente Instrução Normativa. (
+Incluída pela IN/DIPRO nº 28, de 30/07/2010
+)
+.
+III – O Planejamento Assistencial do Produto, conforme artigo 7º-A e na forma do Anexo V da presente Instrução Normativa, exceto para os produtos que irão operar exclusivamente na modalidade de livre acesso a prestadores. (
+Redação dada pela RN nº 259, de 17 de Junho de 2011
+)
+[1]
+(Revogado pela IN/DIPRO nº 45, de 03/10/2014)
+Parágrafo único. A documentação incompleta ou em desacordo com os itens acima será devolvida para que a operadora regularize no prazo de até 30 (trinta) dias, após a comunicação, contados do recebimento.
+Subseção I
+Do Envio e Análise Eletrônicos das Informações
+Art. 3º Para cadastrar as informações no aplicativo RPS, antes de solicitar eletronicamente o registro de produto, a operadora deverá:
+I – recolher a Taxa de Saúde Suplementar por Registro de Produto (TRP), conforme definido na Lei nº 9.961, de 28 de janeiro de 2000, e detalhado na RN nº 89, de 15 de fevereiro de 2005, e posteriores alterações; e
+II – encaminhar a Nota Técnica de Registro de Produto (NTRP), respeitando a exigência normativa específica.
+Art. 4º Quanto à NTRP, deve-se observar:
+I) – o produto com formação de preço pós-estabelecido não está no escopo da Resolução - RDC nº 28, de 26 de junho de 2000, tendo em vista que o valor da contraprestação pecuniária é estabelecido após realização das despesas com as coberturas contratadas;
+II) - os documentos da NTRP, previstos no anexo IV da Instrução Normativa - IN nº 8, da DIPRO, de 27 de dezembro de 2002, e a declaração de suficiência dos valores estabelecidos para as contraprestações pecuniárias deixam de ser encaminhados, devendo permanecer na operadora pelo período mínimo de cinco anos;
+III) - Nos planos Coletivos, não poderá haver distinção quanto ao valor da contraprestação pecuniária entre os beneficiários, dependente ou titular, que vierem a ser incluídos no contrato e os a ele já vinculados, dentro de uma mesma faixa etária;
+IV) - Nos planos Individuais ou Familiares, quando ocorrer inclusão de um novo dependente, a contraprestação pecuniária deverá ser cobrada com base em uma das seguintes regras:
+a) o valor da tabela de comercialização adotada na contratação do titular, cuja atualização poderá se dar com base nos reajustes autorizados pela ANS aplicados ao contrato; ou
+b) o valor da contraprestação pecuniária do titular, ajustado de acordo com as variações entre as faixas etárias apresentadas no contrato, quando for o caso.
+Art. 4º-A Para cadastrar as informações no aplicativo RPS, a operadora deverá observar as disposições do Manual do Usuário do Sistema de Registro de Planos de Saúde - RPS, disponível no endereço eletrônico da ANS na internet.
+(Incluído pela IN/DIPRO nº 45, 03/10/2014)
+Art. 5º No envio das informações referentes às características gerais deverão ser observadas as definições constantes no anexo II da RN n° 85, de 2004, e suas posteriores alterações.
+Parágrafo único. É vedado estabelecer nomes comerciais que possam confundir ou induzir o beneficiário a erro sobre as características do produto.
+Art. 5º-A. Todos os prestadores da rede assistencial da operadora de planos de assistência à saúde (entidades hospitalares, consultórios, clínicas ambulatoriais e SADT) devem estar informados no Cadastro de Estabelecimentos de Saúde da ANS.
+(Incluído pela IN/DIPRO nº 46, 03/10/2014)
+§ 1º A rede assistencial oferecida aos beneficiários deverá contemplar os serviços necessários ao atendimento de todas as doenças previstas na Classificação Estatística Internacional de Doenças e Problemas Relacionados com a Saúde, observando o rol de procedimentos em vigor.
+(Incluído pela IN/DIPRO nº 46, 03/10/2014)
+§ 2º As entidades com assistência hospitalar e os serviços de urgência e emergência necessitam de vinculação à solicitação de registro do plano de saúde de segmentação hospitalar ou referência.
+(Incluído pela IN/DIPRO nº 46, 03/10/2014)
+§ 3º No plano de segmentação ambulatorial, apenas as entidades ou serviços de urgência e emergência deverão ser vinculados à solicitação de registro de produto.
+(Incluído pela IN/DIPRO nº 46, 03/10/2014)
+Art. 6º No aplicativo RPS, para o cadastramento dos temas referentes ao Instrumento Jurídico, a operadora deverá observar o Manual de Elaboração de Contratos de Planos de Saúde constante no Anexo I desta Instrução Normativa com teor idêntico ao do Anexo II da IN - DIPRO nº 22, de 8 de outubro de 2009, podendo utilizar
+:
+(Revogado pela IN/DIPRO nº 45, de 03/10/2014)
+I – os dispositivos, com codificação especial (DIJ), disponíveis no endereço eletrônico da ANS
+www.ans.gov.br
+, no perfil “operadoras”, classificadas por tema, modalidade de operadora, tipo de contratação, cobertura assistencial e abrangência geográfica do produto;
+II - os dispositivos de instrumentos jurídicos de outro produto que esteja de acordo com a legislação em vigor, informando seu código de identificação; ou
+III - novos dispositivos que deverão ser cadastrados pela operadora no aplicativo RPS.
+Parágrafo único. A partir da publicação desta IN, serão disponibilizados no endereço eletrônico
+www.ans.gov.br
+, perfil Operadora, os Contratos Orientadores, que são referências práticas para elaboração do Instrumento Jurídico
+.
+Art. 7º No envio pelo aplicativo RPS das informações referentes à rede assistencial, deverão ser informados todos os prestadores de serviços vinculados à operadora, da rede própria e/ou contratualizada direta ou indiretamente, necessários ao atendimento integral da cobertura prevista nos artigos 10, 10-A e 12, da Lei n° 9.656, de 1998, com o respectivo número de registro no Cadastro Nacional de Estabelecimentos de Saúde - CNES
+.
+Art. 7º No envio pelo aplicativo RPS das informações referentes à rede assistencial, deverão ser informados todos os prestadores de serviços, da rede própria e/ou contratualizada, direta ou indiretamente, necessários ao atendimento integral da cobertura prevista nos artigos 10, 10-A e 12, da Lei n° 9.656, de 1998, obedecendo, ainda, ao disposto no anexo IV. (
+Redação dada pela IN/DIPRO nº 28, de 30/07/2010
+)
+§1º A operadora deverá garantir prestadores para os serviços e procedimentos definidos no Rol de Procedimentos e Eventos em Saúde da ANS para atendimento integral da cobertura prevista nos artigos 10, 10-A e 12, da Lei n° 9.656, de 1998, no município onde o beneficiário o demandar, desde que seja integrante da área geográfica de abrangência definida no contrato firmado com o beneficiário. (
+Redação dada pela IN/DIPRO nº 28, de 30/07/2010
+)
+[1]
+(
+Revogado pela RN nº 259, de 17 de Junho de 2011
+)
+§2º Na ausência de prestadores credenciados que ofereçam o atendimento no município onde o serviço ou o procedimento for demandado, a operadora deverá conceder autorização para atendimento em prestador escolhido pelo beneficiário no mesmo município, em até 5 (cinco) dias após a solicitação. (
+Redação dada pela IN/DIPRO nº 28, de 30/07/2010
+)
+[1]
+(
+Revogado pela RN nº 259, de 17 de Junho de 2011
+)
+§3º A operadora ficará obrigada, a critério do beneficiário, caso este renuncie expressamente a faculdade preconizada §2º deste artigo, ou na ausência de autorização da operadora no prazo máximo de 5 (cinco) dias após a solicitação: (
+Redação dada pela IN/DIPRO nº 28, de 30/07/2010
+)
+[1]
+(
+Revogado pela RN nº 259, de 17 de Junho de 2011
+)
+I – A garantir a disponibilização de prestador de serviços credenciado pela operadora para o atendimento demandado; ou (
+Redação dada pela IN/DIPRO nº 28, de 30/07/2010
+)
+[1]
+(
+Revogado pela RN nº 259, de 17 de Junho de 2011
+)
+II – A reembolsar os custos do atendimento prestado ao beneficiário no município onde o serviço ou o procedimento foi demandado, no prazo máximo de 30 (trinta) dias.
+(
+Redação dada pela IN/DIPRO nº 28, de 30/07/2010
+)
+[1]
+(
+Revogado pela RN nº 259, de 17 de Junho de 2011
+)
+§4º Não existindo prestadores credenciados para serviço de urgência e emergência no município onde o atendimento é demandado, a operadora deve reembolsar os custos do atendimento prestado ao beneficiário, no prazo máximo de 30 (trinta) dias. (
+Redação dada pela IN/DIPRO nº 28, de 30/07/2010
+)
+[1]
+(
+Revogado pela RN nº 259, de 17 de Junho de 2011
+)
+§5º Os demais casos de urgência e emergência e os produtos operados com acesso a livre escolha de prestadores obedecerão ao disposto no artigo 12, VI, da Lei nº 9.656, de 1998, e regulamentação específica. (
+Redação dada pela IN/DIPRO nº 28, de 30/07/2010
+)
+[1]
+(
+Revogado pela RN nº 259, de 17 de Junho de 2011
+)
+Art. 7º No envio pelo aplicativo RPS das informações referentes à rede assistencial, deverão ser informados todos os prestadores de serviços, da rede própria e/ou contratualizada, direta ou indiretamente, necessários ao atendimento integral da cobertura prevista nos artigos 10, 10-A e 12 da Lei n° 9.656, de 1998.
+(Redação dada pela IN/DIPRO nº 46, 03/10/2014)
+Art.
+7º-A
+O
+Planejamento Assistencial do Produto consiste em parâmetros que a operadora se compromete a cumprir para a operação do produto registrado, em relação aos serviços e especialidades discriminados no Anexo V. (
+Incluída pela IN/DIPRO nº 28, de 30/07/2010
+)
+(Revogado pela IN/DIPRO nº 45, de 03/10/2014)
+Parágrafo único. Os parâmetros a serem informados são: (
+Incluída pela IN/DIPRO nº 28, de 30/07/2010
+)
+[1]
+Parágrafo único.  A operadora deverá informar o Ajuste de Rede, que consiste na proporção mínima de prestadores de serviços e/ou leitos a ser mantida em relação à quantidade de beneficiários do produto, visando ao cumprimento dos prazos para atendimento fixados em Resolução Normativa específica editada pela ANS. (
+Redação dada pela RN nº 259, de 17 de Junho de 2011
+)
+[1]
+(Revogado pela IN/DIPRO nº 45, de 03/10/2014)
+I – Tempo para atendimento – consiste no intervalo máximo, expresso em horas ou dias, no qual o beneficiário do produto receberá o atendimento ou serviço demandado; (
+Incluída pela IN/DIPRO nº 28, de 30/07/2010
+)
+[1]
+(
+Revogado pela RN nº 259, de 17 de Junho de 2009
+)
+II – Ajuste de rede – consiste na proporção mínima de prestadores de serviços e/ou leitos a ser mantida em relação à quantidade de beneficiários do produto, visando à manutenção do tempo para atendimento informado. (
+Incluída pela IN/DIPRO nº 28, de 30/072010
+)
+[1]
+(
+Revogado pela RN nº 259, de 17 de Junho de 2009
+)
+Art. 8º Na composição da rede de prestadores hospitalares a serem vinculados ao registro de produto que tenha esta exigência, a operadora deverá disponibilizar leitos clínicos, pediátricos, cirúrgicos, obstétricos, psiquiátricos, de terapia intensiva e serviços de urgência e emergência 24 horas, observando a abrangência geográfica, área de atuação e segmentação assistencial definida para o produto e conforme o previsto no anexo II desta IN
+.
+(
+Revogada pela IN/DIPRO nº 28, de 30/07/2010
+)
+Art. 9º Na composição dos prestadores da rede da operadora será observada a disponibilidade dos serviços previstos no anexo II-A desta IN
+.
+(
+Revogada pela IN/DIPRO nº 28, de 30/07/2010
+)
+Art. 10 Para análise quanto à estrutura e serviços assistenciais disponíveis nos prestadores de serviço, serão considerados os constantes do CNES, inclusive quanto à disponibilidade destes na área prevista para cobertura assistencial do produto.
+Art. 10 Quanto à estrutura e serviços assistenciais disponíveis nos prestadores de serviço, serão considerados os constantes do CNES, inclusive quanto à disponibilidade destes na área prevista para cobertura assistencial do produto.(
+Redação dada pela IN/DIPRO nº 28, de 30/07/2010
+)
+Art. 11 Para efeito das compatibilizações dispostas no Anexo III desta IN, também será considerada como Abrangência Geográfica Estadual a Área de Atuação relativa ao Distrito Federal
+.
+(Revogado pela IN/DIPRO nº 45, de 03/10/2014)
+Art. 12 Nas análises das solicitações de registro de produtos serão verificadas:
+I – a compatibilidade com os normativos vigentes das características informadas do produto listadas a seguir:
+a) segmentação assistencial, tipo de contratação, área geográfica de abrangência, área de atuação, padrão de acomodação em internação, acesso a livre escolha de prestadores, fator moderador, formação do preço, condições de vínculo do beneficiário em planos coletivos, serviços e coberturas adicionais; e
+b) a conformidade da rede hospitalar do produto e da operadora com o disposto no artigo 8º e 9º desta IN;
+b) a disponibilidade de prestadores de serviços, em cumprimento ao Anexo IV desta Instrução Normativa; (
+Redação dada pela IN/DIPRO nº 28, de 30/07/2010
+)
+b) a disponibilidade de prestadores de serviços, nos termos dos artigos 5º-A e 7º da presente Instrução Normativa.
+(Redação dada pela IN/DIPRO nº 46, 03/10/2014)
+II - a compatibilidade e validade dos temas do instrumento jurídico com as características do produto informadas
+;
+(Revogado pela IN/DIPRO nº 45, de 03/10/2014)
+III - o envio de NTRP, quando requerido;
+IV - o recolhimento da TRP.
+§1º Após cientificar-se das pendências no endereço eletrônico
+www.ans.gov.br
+, em relatório específico disponível no “acompanhamento de solicitações”, a operadora deverá, no prazo de 30 (trinta) dias, promover o ajuste das condições de operação do produto quando imprecisas ou conflitantes com a legislação em vigor, ou o envio de esclarecimentos.
+§1º Após cientificar-se das pendências no endereço eletrônico www.ans.gov.br, em relatório específico disponível no “acompanhamento de solicitações”, a operadora deverá, no prazo de 30 (trinta) dias, promover o ajuste das condições de operação do produto quando imprecisas ou conflitantes com a legislação em vigor.  (
+Redação dada pela IN/DIPRO nº 28, de 30/07/2010
+)
+§ 2º Após o envio de novo arquivo e caso a segunda análise continue identificando não cumprimento dos requisitos, será gerado novo relatório de pendências, cujo conteúdo também estará disponível no “acompanhamento de solicitações“, e a operadora terá a terceira e última oportunidade para cumprí-los no prazo de 30 dias.
+Art. 13 Ocorrendo a inércia da operadora e vencidos os prazos dispostos no artigo 12 ou, após o terceiro envio as incorreções e/ou insuficiências não tenham sido sanadas, a solicitação será indeferida.
+Subseção II
+Da Concessão do Registro de Produto
+Art. 14 Após a incorporação de dados, e a análise das características informadas e da documentação encaminhada, serão verificados os seguintes requisitos para a concessão do registro de produto:
+I - a existência de plano-referência na situação de Ativo para comercialização, no mesmo tipo de contratação, quando obrigatório o seu oferecimento; ou
+II - a existência de plano com formação de preço pré-estabelecido na situação de Ativo para comercialização, no mesmo tipo de contratação, quando se tratar de solicitação de registro de um plano odontológico com formação de preço misto.
+Art. 15 Verificada a conformidade de todos os aspectos será concedido o registro de produto, cujo número também estará disponível no endereço eletrônico www.ans.gov.br em “acompanhamento de solicitações”.
+Art. 16 A operadora deverá obrigatoriamente entregar ao contratante cópia do Contrato/Regulamento contendo os temas do Instrumento Jurídico cadastrados na ANS de acordo com as orientações do Manual de Elaboração de Contrato, Anexo I desta Instrução Normativa de mesmo teor do Anexo II da IN - DIPRO nº 22, de 8 de outubro de 2009
+.
+Art. 16. A operadora deverá obrigatoriamente entregar ao contratante cópia do Contrato/Regulamento contendo os temas de acordo com as orientações do Manual de Elaboração dos Contratos de Planos de Saúde, Anexo I desta Instrução Normativa.
+(Redação dada pela IN/DIPRO nº 45, de 03/10/2014)
+§ 1º A cópia do Contrato/Regulamento de que trata este artigo deverá ser individualizada para cada plano registrado, sendo vedada a entrega de documento que contenha informações pertinentes a vários planos distintos, contendo a opção do contratante por determinado plano e/ou opção por módulos de segmentação assistencial
+.
+(Revogado pela IN/DIPRO nº 45, de 03/10/2014)
+§ 2º Após a concessão do registro de produto, o cadastramento dos temas do Instrumento Jurídico junto à ANS deverá estar sempre atualizado e em conformidade com o Contrato/Regulamento que está sendo comercializado ou disponibilizado
+.
+(Revogado pela IN/DIPRO nº 45, de 03/10/2014)
+Parágrafo único. A cópia do Contrato/Regulamento de que trata este artigo deverá ser individualizada para cada plano registrado, sendo vedada a entrega de documento que contenha informações pertinentes a vários planos distintos, contendo a opção do contratante por determinado plano e/ou opção por módulos de segmentação assistencial.
+(Incluído pela IN/DIPRO nº 45, de 03/10/2014)
+Seção I-A
+Do Padrão XML Para Troca de Informações Entre as Operadoras e o RPS
+(
+Redação IN/DIPRO nº 43, de 05 de junho de 2013
+)
+Art. 16-A.  A troca de informações entre as operadoras e o RPS relativa aos procedimentos previstos na Instrução Normativa – IN da Diretoria de Normas e Habilitação dos Produtos – DIPRO n° 43, de 2013, deverá ser realizada por meio eletrônico, no formato XML (Extensible Markup Language). (
+Incluído pela IN/DIPRO nº 43, de 05 de junho de 2013
+)
+(Alterado pela IN nº 3, de 2022)
+Seção I-A
+Do Padrão XML Para Troca de Informações Entre as Operadoras e o RPS
+Art. 16-A. A troca de informações entre as operadoras e o RPS relativa aos procedimentos previstos na Instrução Normativa – IN da Diretoria de Normas e Habilitação dos Produtos – DIPRO nº 3, de 30 de março de 2022, deverá ser realizada por meio eletrônico, no formato XML (Extensible Markup Language)
+(Alterado pela IN nº 3, de 2022)
+Seção II
+Da Manutenção do Registro de Produtos
+Art. 16-B. Na operação de alienação de carteira será exigida, quando for o caso, cópia do comprovante de pagamento da respectiva Taxa de Alteração de Produto (TAP) por todo registro de produto alterado, ressalvadas as hipóteses previstas no § 4º, do artigo 20 da Lei nº 9.961, de 28 de janeiro de 2000.
+(Incluído pela IN/DIPRO nº 45, de 03/10/2014)
+Subseção I
+Das Alterações de Dados do Registro de Produtos
+(Incluído pela RN nº 324, de 18/04/2013)
+Subseção I
+Das Alterações de Nome do Produto
+(Redação dada pela IN/DIPRPO nº 45, de 03/10/2014)
+Art. 17 O pedido de alteração de dados nos registros de produtos, somente poderá ser implementado nos produtos enviados para regularização em atendimento à RN nº 85, de 2004, e suas posteriores alterações, e nos registros concedidos após a aludida RN.
+(Incluído pela RN nº 324, de 18/04/2013
+)
+Art. 17 O pedido de alteração do nome do produto, somente poderá ser implementado nos produtos regularizados nos termos da Resolução Normativa nº 85, de 7 de dezembro de 2004, e suas posteriores alterações, e nos registros concedidos após a aludida RN.
+(Redação dada pela IN/DIPRO nº 45, de 03/10/2014)
+Parágrafo único. O pedido deverá ser encaminhado por meio de documento assinado pelo representante legal da operadora, juntamente com cópia do comprovante de pagamento da respectiva Taxa por Alteração de Dados do Produto (TAP).
+§ 1º O pedido deverá ser encaminhado por meio de documento assinado pelo representante legal da operadora, juntamente com cópia do comprovante de pagamento da respectiva Taxa por Alteração de Dados do Produto (TAP).(
+Redação dada IN/DIPRO nº 28, de 30/07/2010
+)
+§ 1º  Exceto para os procedimentos previstos na IN DIPRO n° 43, de 5 de junho de 2013, o pedido deverá ser encaminhado por meio de documento assinado pelo representante legal da operadora, juntamente com cópia do comprovante de pagamento da respectiva Taxa por Alteração de Dados do Produto (TAP), quando devida. (
+Redação IN/DIPRO nº 43, de 05 de junho de 2013
+)
+(Revogado pela IN/DIPRO nº 45, de 03/10/2014)
+§ 2º As solicitações de alterações do instrumento jurídico somente serão avaliadas quando se tratar de erro material e/ou de adequação a normativos vigentes e somente utilizando-se de Dispositivos Publicados. (
+Redação IN/DIPRO nº 28, de 30/07/2010
+)
+(Revogado pela IN/DIPRO nº 45, de 03/10/2014)
+§ 3º A ANS poderá, quando motivada por razões de interesse público, disponibilizar aplicativo por meio do seu endereço eletrônico, para adequação do instrumento jurídico dos produtos a normativos vigentes. (
+Acrescentado pela IN/DIPRO nº 39, de 31 de Maio de 2012
+)
+(Revogado pela IN/DIPRO nº 45, de 03/10/2014)
+§ 4º  Nos procedimentos previstos na IN DIPRO n° 43, de 2013, o pedido deverá ser encaminhado por meio de arquivo eletrônico, com a informação do número da Guia de Recolhimento da União – GRU relacionada à respectiva TAP recolhida, quando devida.(
+Incluídopela IN/DIPRO nº 43, de 05 de junho de 2013
+)
+(Revogado pela IN/DIPRO nº 45, de 03/10/2014)
+Parágrafo único
+. O pedido deverá ser encaminhado por meio de documento assinado pelo representante legal da operadora, juntamente com cópia do comprovante de pagamento da respectiva Taxa por Alteração de Dados do Produto (TAP).
+(Incluído pela IN/DIPRO nº 45, de 03/10/2014)
+Subseção I - A
+Das Alterações de Rede de Prestadores Hospitalares
+(Incluído pela IN/DIPRO nº 45, de 03/10/2014)
+Art. 17-A. A forma e os procedimentos para solicitação de substituição de entidade hospitalar e de redimensionamento de rede por redução serão disciplinados em Instrução Normativa específica da DIPRO.
+(Incluído pela IN/DIPRO nº 45, de 03/10/2014)
+Subseção II
+Da Suspensão e Reativação do Registro de Produtos
+(
+Incluído pela RN nº 324, de 18 de abril de 2013
+)
+Art.18 As alterações que ocorram na rede de entidades hospitalares configuram alterações do registro de produto, devendo ser solicitadas pelas operadoras na forma dos anexos IV e IV-A
+.
+Art.18.  As alterações que ocorram na rede de entidades hospitalares configuram alterações do registro de produto, devendo ser solicitadas pelas operadoras na forma do artigo 17 e dos Anexos IV e IV-A da presente IN, exceto para os procedimentos previstos na IN DIPRO n° 43, de 2013, cujo envio deverá ser eletrônico, no formato XML. (
+Redação IN/DIPRO nº 43, de 05 de junho de 2013
+)
+(Revogado pela IN/DIPRO nº 46, de 03/10/2014)
+§ 1º Nos casos de alteração na rede hospitalar que configure substituição ou redimensionamento, as operadoras que contratam a entidade hospitalar de forma direta deverão encaminhar documento de pedido de alteração assinado pelo representante da operadora junto à ANS.
+(Revogado pela IN/DIPRO nº 46, de 03/10/2014)
+§ 2º As alterações decorrentes de redimensionamento ou substituição de entidade hospitalar autorizadas para a operadora que contratava o prestador de forma direta, conforme classificação definida no Anexo II da RN no 85, de 2004, serão automaticamente aplicadas para todas as operadoras que possuam este prestador informado no Cadastro de Estabelecimentos de Saúde do RPS com o tipo de contratualização indireta e que apresente a operadora solicitante como intermediária.
+(Revogado pela IN/DIPRO nº 46, de 03/10/2014)
+§ 3° As operadoras que contratavam a entidade hospitalar de forma indireta e pretendam, após as alterações dispostas no parágrafo anterior, passar a contratá-la de forma direta ou manter a relação indireta através de outra operadora intermediária, poderão solicitar alteração dos dados do prestador no seu Cadastro de Estabelecimentos de Saúde, informado à ANS.
+(Revogado pela IN/DIPRO nº 46, de 03/10/2014)
+§ 4° As operadoras que contratam a entidade hospitalar de forma indireta e pretendam substituição ou redimensionamento de entidade hospitalar, que não tenha sido requerida pela operadora que mantém a relação direta com o prestador, deverão encaminhar documento de pedido de alteração assinado pelo representante da operadora junto à ANS.
+(Revogado pela IN/DIPRO nº 46, de 03/10/2014)
+Art.19 Serão indeferidas e devolvidas as solicitações de abertura do processo de alteração de rede hospitalar cuja documentação esteja incompleta ou em desacordo com os anexos IV e IV-A, bem como aquelas sem o comprovante de recolhimento da Taxa de Alteração de Dados do Produto - TAP, quando devida.
+(Revogado pela IN/DIPRO nº 46, de 03/10/2014)
+Art. 20 Na operação de alienação de carteira será exigida, quando for o caso, cópia do comprovante de pagamento da respectiva Taxa de Alteração de Produto (TAP) por todo registro de produto alterado, ressalvadas as hipóteses previstas no § 4º, do artigo 20 da Lei nº 9.961, de 28 de janeiro de 2000
+.
+(Revogado pela IN/DIPRO nº 45, de 03/10/2014)
+Art. 20-A. A suspensão ou reativação de registro de produto a pedido da operadora, para fins de comercialização ou disponibilização, observará os seguintes critérios:(
+Incluído pela RN nº 324, de 18 de abril de 2013
+)
+I - deverá ser formulada por escrito, com 30 (trinta) dias de antecedência da data pretendida para a suspensão ou reativação, contados da data da protocolização na ANS, contendo a identificação e assinatura do seu representante legal junto à Agência, o número de seu registro, o número de registro do produto e a data a partir da qual este será suspenso ou reativado;(
+Incluído pela RN nº 324, de 18 de abril de 2013
+)
+II - somente será suspenso o registro de produto considerado "ativo", nos termos do inciso I do art. 12 da RN nº 85, de 2004;(
+Incluído pela RN nº 324, de 18 de abril de 2013
+)
+III - não será suspenso o último plano referência, caso haja algum plano ativo no mesmo tipo de contratação;(
+Incluído pela RN nº 324, de 18 de abril de 2013
+)
+IV - não será suspenso o último plano odontológico com formação de preço pré-estabelecida, caso haja algum plano com formação de preço misto ativo no mesmo tipo de contratação; e (
+Incluído pela RN nº 324, de 18 de abril de 2013
+)
+V - somente será reativado o registro de produto considerado "ativo com comercialização suspensa", nos termos do art. 12, inciso II, da RN nº 85, de 2004.(
+Incluído pela RN nº 324, de 18 de abril de 2013
+)
+Parágrafo único
+. Será devolvido o pedido de suspensão ou reativação de registro de produto cuja documentação esteja em desacordo com o disposto no inciso I.(
+Incluído pela RN nº 324, de 18 de abril de 2013
+)
+Seção III
+Do Monitoramento do Registro e Operação de Planos
+Art. 21 Todos os planos registrados serão objeto de monitoramento.
+Parágrafo único. Irregularidade em tema do instrumento jurídico, rede assistencial ou econômico-financeira na operação do produto, ensejará a suspensão temporária do registro para fins de comercialização ou disponibilização, bem como de todos os registros de produtos que apresentarem a mesma irregularidade, até que seja corrigida, conforme disposto no artigo 21 da RN nº 85, de 2004, e suas posteriores alterações
+.
+(Revogado pela IN/DIPRO nº 45, de 03/10/2014)
+§ 1º Irregularidade contratual, irregularidade na rede de prestadores, irregularidade assistencial ou irregularidade econômico-financeira na operação do produto, ensejará a suspensão temporária do registro do produto para fins de comercialização ou disponibilização, bem como de todos os registros de produtos que apresentarem a mesma irregularidade, até que seja corrigida, conforme disposto no artigo 21 da RN nº 85, de 2004, e suas posteriores alterações.
+(Incluído pela IN/DIPRO nº 45, de 03/10/2014)
+§ 2º Nos casos de irregularidade contratual a suspensão ocorrerá nas seguintes hipóteses:
+(Incluído pela IN/DIPRO nº 45, de 03/10/2014)
+I - operação de produto de forma diversa da registrada;
+(Incluído pela IN/DIPRO nº 45, de 03/10/2014)
+II - operação de produto com nome do produto que possa confundir ou induzir o beneficiário a erro sobre as suas características; e
+(Incluído pela IN/DIPRO nº 45, de 03/10/2014)
+III - operação de produto que não se enquadre no disposto no artigo 1º, inciso I, da Lei 9656, de 1998.
+(Incluído pela IN/DIPRO nº 45, de 03/10/2014)
+§3º Excepcionalmente, quando se tratar de hipótese prevista no inciso I do § 2º, não ensejará alteração da situação do registro do produto, caso se constate que o nome do produto adotado na comercialização não esteja induzindo o beneficiário ao erro, devendo ser adotado o procedimento disposto no art. 22 desta instrução normativa.
+(Incluído pela IN/DIPRO nº 45, de 03/10/2014)
+§ 4º Nos casos em que a irregularidade for identificada no âmbito da apuração de denúncias pela Diretoria de Fiscalização, a Diretoria de Normas e Habilitação de Produtos, mediante solicitação, efetuará a suspensão do registro do produto.
+(Incluído pela IN/DIPRO nº 45, de 03/10/2014)
+Art. 22 A operadora será notificada para alteração de condições de operação do produto ou o envio de esclarecimentos, no prazo de 30 (trinta) dias contados da data de sua notificação
+.
+Art. 22. Aplicada a suspensão, a operadora será notificada para alteração de condições de operação do produto ou envio de esclarecimentos, no prazo de até 10 (dez) dias contados da data de sua notificação.
+(Redação dada pela IN/DIPRPO nº 45, de 03/10/2014)
+§ 1º Persistindo o não-atendimento aos requisitos solicitados na notificação ou não tendo sido enviada a resposta no prazo estabelecido no caput deste artigo, poderá acarretar abertura de processo específico para decretação de regime especial de direção técnica, com a finalidade de ajuste da irregularidade em tema cadastrado para utilização nos instrumentos jurídicos, de rede assistencial e/ou de aspecto econômico-financeiro na operação do (s) produto (s)
+.
+§1º Persistindo o não atendimento aos requisitos solicitados na notificação ou não tendo sido enviada a resposta no prazo estabelecido no §1º deste artigo, a Diretoria de Normas e Habilitação de Produtos encaminhará procedimento à Diretoria de Fiscalização para adoção das providências cabíveis.
+(Redação dada pela IN/DIPRPO nº 45, de 03/10/2014)
+§ 2º Uma vez verificada a regularização das condições de operação o plano retorna ao status de ATIVO para comercialização ou disponibilização
+.
+§2º Uma vez verificada a regularização das condições de operação, o plano retornará a situação anterior.
+(Redação dada pela IN/DIPRO nº 45, de 03/10/2014)
+§3º Não se aplicam o caput e o §1º deste artigo nos casos em que a irregularidade for identificada no âmbito de apuração de denúncias pela Diretoria de Fiscalização, sendo observadas as disposições da Resolução Normativa nº 48, de 2003.
+(Incluído pela IN/DIPRO nº 45, de 03/10/2014)
+Seção IV
+Do Cancelamento do Registro de Produto
+Art. 23 O pedido de cancelamento de registro de produtos deverá observar o disposto no artigo 23, da RN n° 85, de 2004, e suas posteriores alterações, bem como o previsto nesta IN, devendo ser encaminhado por meio de documento assinado pelo representante da operadora junto à ANS.
+Art. 24 A análise de pedido de cancelamento de registro de produtos observará:
+I – inexistência de beneficiário vinculado, verificada na base de dados atualizada do SIB; e
+II – existência de pelo menos um registro de plano-referência para o tipo de contratação solicitada.
+Parágrafo único. A situação descrita no inciso II deste artigo será desconsiderada, quando a análise for etapa precedente ao cancelamento da autorização de funcionamento e do registro da operadora.
+CAPÍTULO III
+DAS DISPOSIÇÕES TRANSITÓRIAS
+(Revogado pela IN/DIPRO nº 45, de 03/10/2014)
+Seção I
+Dos Planos Registrados com Contratação Individual e Familiar
+(Revogado pela IN/DIPRO nº 45, de 03/10/2014)
+Art. 25 Para verificação das operadoras quanto à conformidade com os normativos vigentes, serão disponibilizadas no endereço eletrônico
+www.ans.gov.br
+as características gerais, protocolo de NTRP e temas do instrumento jurídico enviado para a ANS de todos seus planos registrados
+.
+(Revogado pela IN/DIPRO nº 45, de 03/10/2014)
+Parágrafo único. Os temas dos instrumentos jurídicos dos planos que não possuem estas informações deverão ser cadastrados conforme as regras do artigo 6º
+.
+Art. 26. Caso as operadoras identifiquem alguma incongruência, deverão ajustar seus contratos na forma do artigo 6º, no prazo de 12 (doze) meses contados da publicação desta IN, disponibilizando aos beneficiários as novas versões dos Contratos/Regulamentos
+.
+(Revogado pela IN/DIPRO nº 45, de 03/10/2014)
+Parágrafo único. Os documentos deverão ser entregues na forma prevista no artigo 16 desta IN.
+Art. 27 No mesmo prazo descrito no artigo anterior deverão ser cadastrados os temas do Instrumento Jurídico no endereço eletrônico
+www.ans.gov.br
+.
+(Revogado pela IN/DIPRO nº 45, de 03/10/2014)
+Art. 28 Todas as informações do instrumento jurídico cadastradas no RPS ficarão disponíveis na página da ANS (
+www.ans.gov.br
+) e serão utilizadas para monitoramento e ações de fiscalização.
+(Revogado pela IN/DIPRO nº 45, de 03/10/2014)
+Parágrafo único. Caso não sejam cadastradas novas informações de Instrumento Jurídico no prazo de 12 (doze) meses contados da vigência desta IN, as informações já existentes no RPS serão consideradas, para fins de fiscalização e monitoramento.
+Seção II
+Das Solicitações de Registro Enviadas pelo Aplicativo RPS com Base na IN no 15.
+Art. 29. As solicitações de registro de produto encaminhadas na forma da IN nº 15, de 14 de dezembro de 2007, alterada pela IN nº 17, de 17 de dezembro de 2008, terão sua continuidade de acordo com a nova sistemática disposta nesta IN
+.
+Parágrafo único. As solicitações de registro de produtos serão disponibilizadas para serem reenviadas de acordo com as regras dispostas na Seção I do Capítulo II desta IN.
+Art. 29. As solicitações de registro de produto encaminhadas até 31/12/2009 terão continuidade da sua análise na forma da IN nº 15, de 14 de dezembro de 2007, e suas alterações posteriores. (
+Redação dada pela IN/DIPRO nº 026, de 17/02/2010
+)
+.
+Art. 29 As solicitações de registro de produto encaminhadas na forma da IN nº 15, de 14 de dezembro de 2007, alteradas pela IN nº 17, de 17 de dezembro de 2008, terão sua continuidade de acordo com a nova sistemática disposta nesta IN. (
+Redação dada pela IN/DIPRO nº 27, de 08/04//2010
+)
+(Revogado pela IN/DIPRO nº 45, de 03/10/2014)
+§ 1º As solicitações de registro de produtos serão disponibilizadas para serem reenviadas de acordo com as regras dispostas na Seção I do Capítulo II desta IN. (
+Redação dada pela IN/DIPRO nº 27, de 08/04//2010
+)
+§ 2º Para efeitos da concessão do registro permanecerá válida a conformidade normativa da rede assistencial verificada em análises anteriores.  (
+Redação dada pela IN/DIPRO nº 27, de 08/04//2010
+)
+CAPÍTULO IV
+DAS DISPOSIÇÕES FINAIS
+Art. 30 Submetem-se a essas IN todos os produtos registrados, independente da data de concessão.
+Art. 31. Os produtos com contratação coletiva deverão observar as disposições quanto à atualização do instrumento jurídico estabelecidas na IN nº 22 de 08 de outubro de 2009
+.
+(Revogado pela IN/DIPRO nº 45, de 03/10/2014)
+Art. 32. Os documentos mencionados nesta Instrução deverão ser encaminhados, à ANS, localizada na Avenida Augusto Severo, nº 84, Glória, CEP: 20.021-040, Rio de Janeiro/ RJ, dentro de envelope lacrado e identificado por meio de etiqueta, com as seguintes informações:
+I – razão social da operadora;
+II – registro da operadora na ANS; e
+III – identificação da solicitação – registro, alteração ou cancelamento de plano de saúde
+.
+III - identificação da solicitação:
+(Redação dada pela IN/DIPRPO nº 45, de 03/10/2014)
+a) registro de produto;
+(Incluído pela IN/DIPRO nº 45, de 03/10/2014)
+b) alteração de nome do produto;
+(Incluído pela IN/DIPRO nº 45, de 03/10/2014)
+c) suspensão de registro de produto;
+(Incluído pela IN/DIPRO nº 45, de 03/10/2014)
+d) reativação de registro de produto; ou
+(Incluído pela IN/DIPRO nº 45, de 03/10/2014)
+e) cancelamento de registro de produto.
+(Incluído pela IN/DIPRO nº 45, de 03/10/2014)
+Art. 33 As operadoras que não complementaram os dados de seus produtos com registro provisório, de acordo com as exigências da RN nº 85, de 2004, e suas posteriores alterações, deverão fazê-lo através do aplicativo Adequação do Registro de Planos de Saúde - ARPS antes de iniciarem o processo para conformação do instrumento jurídico, conforme previsto nesta IN
+.
+Art. 33. As operadoras que não complementaram os dados de seus produtos com registro provisório, de acordo com as exigências da RN nº 85, de 2004, e suas posteriores alterações, deverão fazê-lo através do aplicativo Adequação do Registro de Planos de Saúde - ARPS.
+(Redação dada pela IN/DIPRPO nº 45, de 03/10/2014)
+Parágrafo único. O não-cumprimento do disposto neste artigo ensejará a suspensão da comercialização do produto ou o cancelamento do registro de produto.
+Art. 33-A. As demais normas vigentes que determinarem a atualização do cadastro dos temas do instrumento jurídico dos planos às suas disposições passam a disciplinar apenas a alteração dos contratos celebrados entre as partes.
+(Incluído pela IN/DIPRO nº 45, de 03/10/2014)
+§1º Não estarão sujeitas à aprovação prévia da ANS as alterações dos contratos tratados no caput, sendo responsabilidade da operadora observar o cumprimento dos normativos vigentes.
+(Incluído pela IN/DIPRO nº 45, de 03/10/2014)
+§2º Os produtos cuja comercialização tenha sido suspensa exclusivamente por não adequação do cadastro do instrumento jurídico à RN nº 195, de 2009, ou por divergências no texto do instrumento jurídico cadastrado poderão ter sua situação de registro alterada para "Ativo", mediante solicitação da operadora, desde que declare que somente receberão beneficiários titulares os contratos que estiverem adequados à legislação em vigor.
+(Incluído pela IN/DIPRO nº 45, de 03/10/2014)
+§3º Os produtos cuja comercialização tenha sido suspensa por divergências no contrato obedecerão ao procedimento descrito no artigo 22 desta instrução normativa.
+(Incluído pela IN/DIPRO nº 45, de 03/10/2014)
+Art. 34 Os anexos I, II, II-A, III, IV e IV-A estarão disponíveis na página da ANS para consulta e cópia no endereço eletrônico
+www.ans.gov.br
+.
+Art. 34 Os anexos I, III, IV e IV-A estarão disponíveis na página da ANS para consulta e cópia no endereço eletrônico
+www.ans.gov.br
+.  (
+Redação dada pela IN/DIPRO nº 28, de 30/07/2010
+)
+Art. 34. O Anexo I estará disponível na página da ANS para consulta e cópia no endereço eletrônico
+www.ans.gov.br
+.
+(Redação dada pela IN/DIPRO nº 45, 03/10/2014)
+Art. 35 Ficam revogadas as Instruções Normativas – DIPRO nº 15, de 14 de dezembro de 2007, e nº 17, de 17 de dezembro de 2008.
+Art. 36 Esta Instrução Normativa entra em vigor em 1º de janeiro de 2010.
+FAUSTO PEREIRA DOS SANTOS
+Diretor de Normas e Habilitação dos Produtos
+Este texto não substitui o texto normativo original e nem o de suas alterações, caso haja, publicados no Diário Oficial.
+ANEXOS
+Anexo II e II-A revogados pela IN/DIPRO nº 28, de 2010
+.
+ANEXOS DA IN/DIPRO nº 28 - MODIFICARAM OS ANEXOS DA IN/DIPRO nº 23
+.
+[1]
+Correlações da IN/DIPRO nº 23:
+Lei nº 9.656
+, de 1998
+Lei nº 9.961
+, de 2000
+RDC nº 28
+, de 2000
+IN/DIPRO nº 8
+, de 2002
+RN nº 85
+, de 2004
+RN nº 89
+, de 2005
+RN nº 100
+, de 2005
+RN nº 124
+, de 2006
+RN nº 144
+, de 2007
+RN nº 160
+, de 2007
+IN/DIPRO nº 15
+, de 2007
+IN/DIPRO nº 17
+, de 2008
+RN nº 175
+, de 2008
+RN nº 189
+, de 2009
+RN nº 196
+, de 2009
+RN nº 197
+, de 2009
+IN/DIPRO nº 22
+, de 2009
+[Voltar]
+A IN/DIPRO nº 23 foi alterada pela:
+IN/DIPRO nº 026
+, de 2010
+IN/DIPRO nº 027
+, de 2010
+IN/DIPRO nº 028
+, de 2010
+IN/DIPRO nº 039
+, de 2012
+-> A
+RN nº 259
+, de 28/07/2011
+[1]
+, alterada pela
+RN nº 268
+, de 02/09/2011, produzirá algumas alterações nesta IN/DIPRO nº 23, que apenas estarão vigentes a partir de 19/12/2011
+IN/DIPRO nº 45
+, de 2014
+IN/DIPRO nº 46
+, de 2014
+[Voltar]
+A
+IN/DIPRO nº 23 REVOGOU:
+IN/DIPRO nº 15
+, de 2007
+IN/DIPRO nº 17
+, de 2008
+[Voltar]
+ÍNDICE DA IN/DIPRO nº 23:
+CAPÍTULO I
+- DAS DISPOSIÇÕES PRELIMINARES
+CAPÍTULO II
+- DAS DISPOSIÇÕES GERAIS
+Seção I
+- Da Solicitação do Registro de Produto
+Subseção I
+- Do Envio e Análise Eletrônicos das Informações
+Subseção II
+- Da Concessão do Registro de Produto
+Seção II
+- Das Alterações de Dados no Registro de Produto
+Seção III
+- Do Monitoramento do Registro e Operação de Planos
+Seção IV
+- Do Cancelamento do Registro de Produto
+CAPÍTULO III
+- DAS DISPOSIÇÕES TRANSITÓRIAS
+Seção I
+- Dos Planos Registrados com Contratação Individual e Familiar
+Seção II
+- Das Solicitações de Registro Enviadas pelo Aplicativo RPS com Base na IN no 15.
+CAPÍTULO IV
+- DAS DISPOSIÇÕES FINAIS
+[Voltar]
+1
+A
+RN nº 259
+, de 28/07/2011, produzirá alterações em alguns dispositivos da IN/DIPRO Nº 23, mas, apenas entrará em vigor a partir de 19/12/2011, conforme alteração da RN nº 268, de 2011:
+" ....
+Art. 16  Esta RN entra em vigor 90 (noventa) dias após a data de sua publicação.
+Art. 16. Esta RN entra em
+vigor
+no
+dia 19 de dezembro de 2011
+." (Redação dada pela
+RN nº 268
+, de 02/09/2011)
+[Voltar]
+<a id="sticky9" title="Sobre o artigo:" href="index.php?option=com_legislacao&amp;view=legislacao&amp;task=TextoLei&amp;format=raw&amp;id=MjgxMw==" rel="index.php?option=com_legislacao&amp;view=legislacao&amp;task=Preview&amp;format=raw&amp;id=
+</body>

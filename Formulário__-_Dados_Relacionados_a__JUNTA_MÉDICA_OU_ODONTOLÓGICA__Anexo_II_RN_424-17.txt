@@ -1,0 +1,85 @@
+J u n t a   M é d i c a
+E s t e   f o r m u l á r i o   d e v e r á   s e r   p r e e n c h i d o   p a r a   c a d a   e v e n t o   d e   i n s t a l a ç ã o   d e   j u n t a   m é d i c a   n a   o p e r a d o r a .
+    I D E N T I F I C A Ç Ã O   D A   O P E R A D O R A  
+1 )   R a z ã o   s o c i a l   d a   o p e r a d o r a :
+2 )   C N P J   d a   o p e r a d o r a :  
+X X . X X X . X X X / X X X X ­ X X
+3 )   R e g i s t r o   A N S   d a   o p e r a d o r a :
+4 )   N o m e   c o m p l e t o   d o   r e p r e s e n t a n t e   d a   o p e r a d o r a :
+5 )   E ­ m a i l   d o   r e p r e s e n t a n t e   d a   o p e r a d o r a :
+6 )   T e l e f o n e   d e   c o n t a t o   d o   r e p r e s e n t a n t e   d a   o p e r a d o r a :
+    I D E N T I F I C A Ç Ã O   D O   B E N E F I C I Á R I O  
+  D a d o s   d e   i d e n t i f i c a ç ã o   d o   b e n e f i c i á r i o   d a   s a ú d e   s u p l e m e n t a r .
+7 )   N o m e   d o   b e n e f i c i á r i o :
+8 )   D a t a   d e   n a s c i m e n t o   d o   b e n e f i c i á r i o :
+9 )   S e x o   d o   b e n e f i c i á r i o :
+F e m i n i n o
+M a s c u l i n o
+1 0 )   C P F   d o   b e n e f i c i á r i o :
+1 1 )   N ú m e r o   d o   C a r t ã o   N a c i n a l   d e   S a ú d e   d o   b e n e f i c i á r i o :
+1 2 )   M u n i c í p i o   d e   r e s i d ê n c i a   d o   b e n e f i c i á r i o :
+1 3 )   U F   d e   r e s i d ê n c i a   d o   b e n e f i c i á r i o :
+    I N F O R M A Ç Õ E S   D A   J U N T A   M É D I C A / O D O N T O L Ó G I C A  
+  D a d o s   r e l a t i v o s   à   r e a l i z a ç ã o   d e   j u n t a   m é d i c a / o d o n t o l ó g i c a   n a   s a ú d e   s u p l e m e n t a r .
+1 4 )   D a t a   d e   s o l i c i t a ç ã o   d o   p r o c e d i m e n t o   p e l o   m é d i c o / o d o n t ó l o g o   a s s i s t e n t e :
+1 5 )   D a t a   d e   r e c e b i m e n t o   d a   s o l i c i t a ç ã o   d e   r e a l i z a ç ã o   d o   p r o c e d i m e n t o   p e l a   o p e r a d o r a :
+1 6 )   M o t i v o   d a   d i v e r g ê n c i a   a s s i s t e n c i a l :
+I n d i c a ç ã o   c l í n i c a   d o   p r o c e d i m e n t o
+Ó r t e s e ,   p r ó t e s e   o u   m a t e r i a l   e s p e c i a l   ( O P M E )
+M e d i c a m e n t o
+ O u t r o s
+ 
+1 7 )   E s p e c i f i c a r   o   m o t i v o   d a   d i v e r g ê n c i a   a s s i s t ê n c i a l :
+1 8 )   D e s c r i ç ã o   T U S S   d o   p r o c e d i m e n t o   q u e   m o t i v o u   a   d i v e r g ê n c i a   a s s i s t e n c i a l :  
+R e f e r ê n c i a :   T U S S   ­ T e r m i n o l o g i a   U n i f i c a d a   d a   S a ú d e   S u p l e m e n t a r
+1 9 )   C ó d i g o   T U S S   d o   p r o c e d i m e n t o   q u e   m o t i v o u   a   d i v e r g ê n c i a   a s s i s t e n c i a l :  
+R e f e r ê n c i a :   T U S S   ­ T e r m i n o l o g i a   U n i f i c a d a   d a   S a ú d e   S u p l e m e n t a r
+2 0 )   D e s c r i ç ã o   T U S S   d o   m e d i c a m e n t o   q u e   m o t i v o u   a   d i v e r g ê n c i a   a s s i s t e n c i a l :  
+R e f e r ê n c i a :   T U S S   ­ T e r m i n o l o g i a   U n i f i c a d a   d a   S a ú d e   S u p l e m e n t a r
+2 1 )   C ó d i g o   T U S S   d o   m e d i c a m e n t o   q u e   m o t i v o u   a   d i v e r g ê n c i a   a s s i s t e n c i a l :  
+R e f e r ê n c i a :   T U S S   ­ T e r m i n o l o g i a   U n i f i c a d a   d a   S a ú d e   S u p l e m e n t a r
+2 2 )   R e g i s t r o   A N V I S A   d a   O P M E   q u e   m o t i v o u   a   d i v e r g ê n c i a   a s s i s t e n c i a l :  
+R e f e r ê n c i a :   T U S S   ­ T e r m i n o l o g i a   U n i f i c a d a   d a   S a ú d e   S u p l e m e n t a r
+2 3 )   A   O P M E   q u e   m o t i v o u   a   d i v e r g ê n c i a   a s s i s t e n c i a l   t e m   d e s c r i ç ã o   e   c ó d i g o   n a   T U S S ?
+S i m
+N ã o
+2 4 )   D e s c r i ç ã o   T U S S   d a   O P M E   q u e   m o t i v o u   a   d i v e r g ê n c i a   a s s i s t e n c i a l :  
+R e f e r ê n c i a :   T U S S   ­ T e r m i n o l o g i a   U n i f i c a d a   d a   S a ú d e   S u p l e m e n t a r
+2 5 )   C ó d i g o   T U S S   d a   O P M E   q u e   m o t i v o u   a   d i v e r g ê n c i a   a s s i s t e n c i a l :  
+R e f e r ê n c i a :   T U S S   ­ T e r m i n o l o g i a   U n i f i c a d a   d a   S a ú d e   S u p l e m e n t a r
+2 6 )   E s p e c i f i c a r   o   n o m e   d a   O P M E   q u e   m o t i v o u   a   d i v e r g ê n c i a   a s s i s t e n c i a l :
+2 7 )   N o m e   d o   m é d i c o / o d o n t ó l o g o   a s s i s t e n t e :
+2 8 )   C R M / C R O   d o   m é d i c o / o d o n t ó l o g o   a s s i s t e n t e :
+2 9 )   U F   d o   C R M / C R O   d o   m é d i c o / o d o n t ó l o g o   a s s i s t e n t e :
+3 0 )   E s p e c i a l i d a d e   d o   m é d i c o / o d o n t ó l o g o   a s s i s t e n t e :
+3 1 )   Á r e a   d e   a t u a ç ã o   d o   m é d i c o / o d o n t ó l o g o   a s s i s t e n t e :
+3 2 )   N o m e   d o   m é d i c o / o d o n t ó l o g o   d e s e m p a t a d o r :  
+A q u e l e   q u e   e m i t i u   e   a s s i n o u   o   l a u d o   q u e   f o i   e n v i a d o   a o   b e n e f i c i á r i o
+3 3 )   C R M / C R O   d o   m é d i c o / o d o n t ó l o g o   d e s e m p a t a d o r :
+3 4 )   U F   d o   C R M / C R O   d o   m é d i c o / o d o n t ó l o g o   d e s e m p a t o r :
+3 5 )   E s p e c i a l i d a d e   d o   m é d i c o / o d o n t ó l o g o   d e s e m p a t a d o r :
+3 6 )   Á r e a   d e   a t u a ç ã o   d o   m é d i c o / o d o n t ó l o g o   d e s e m p a t a d o r :
+3 7 )   R e s u l t a d o   d a   j u n t a   m é d i c a / o d o n t o l ó g i c a :
+C o n c l u i u   p e l a   c o b e r t u r a   d o   p r o c e d i m e n t o   i n d i c a d o   p e l o   m é d i c o   a s s i s t e n t e
+C o n c l u i u   p e l a   n e g a t i v a   d a   c o b e r t u r a   d o   p r o c e d i m e n t o   i n d i c a d o   p e l o   m é d i c o   a s s i s t e n t e
+C o n c l u i u   p e l a   c o b e r t u r a   d a   O P M E   i n d i c a d a   p e l o   m é d i c o   a s s i s t e n t e
+C o n c l u i u   p e l a   n e g a t i v a   d a   c o b e r t u r a   d a   O P M E   i n d i c a d a   p e l o   m é d i c o   a s s i s t e n t e
+D e t e r m i n o u   q u e   f a l t a v a m   e x a m e s / p r o c e d i m e n t o s   e s s e n c i a i s   p a r a   a   a n á l i s e   d o   c a s o
+3 8 )   D e s c r i ç ã o   T U S S   d o   p r o c e d i m e n t o   s o l i c i t a d o   p e l o   d e s e m p a t a d o r :  
+R e f e r ê n c i a :   T U S S   ­ T e r m i n o l o g i a   U n i f i c a d a   d a   S a ú d e   S u p l e m e n t a r
+3 9 )   C ó d i g o   T U S S   d o   p r o c e d i m e n t o   s o l i c i t a d o   p e l o   d e s e m p a t a d o r :  
+R e f e r ê n c i a :   T U S S   ­ T e r m i n o l o g i a   U n i f i c a d a   d a   S a ú d e   S u p l e m e n t a r
+4 0 )   J u s t i f i c a t i v a   d o   d e s e m p a t a d o r   p a r a   a   s o l i c i t a ç ã o   d o   p r o c e d i m e n t o :
+4 1 )   D e s c r i ç ã o   T U S S   d o   p r o c e d i m e n t o   s o l i c i t a d o   p e l o   d e s e m p a t a d o r :  
+R e f e r ê n c i a :   T U S S   ­ T e r m i n o l o g i a   U n i f i c a d a   d a   S a ú d e   S u p l e m e n t a r
+4 2 )   C ó d i g o   T U S S   d o   p r o c e d i m e n t o   s o l i c i t a d o   p e l o   d e s e m p a t a d o r   :  
+R e f e r ê n c i a :   T U S S   ­ T e r m i n o l o g i a   U n i f i c a d a   d a   S a ú d e   S u p l e m e n t a r
+4 3 )   J u s t i f i c a t i v a   d o   d e s e m p a t a d o r   p a r a   a   s o l i c i t a ç ã o   d o   p r o c e d i m e n t o :
+4 4 )   D e s c r i ç ã o   T U S S   d o   p r o c e d i m e n t o   s o l i c i t a d o   p e l o   d e s e m p a t a d o r :  
+R e f e r ê n c i a :   T U S S   ­ T e r m i n o l o g i a   U n i f i c a d a   d a   S a ú d e   S u p l e m e n t a r
+4 5 )   C ó d i g o   T U S S   d o   p r o c e d i m e n t o   s o l i c i t a d o   p e l o   d e s e m p a t a d o r :  
+R e f e r ê n c i a :   T U S S   ­ T e r m i n o l o g i a   U n i f i c a d a   d a   S a ú d e   S u p l e m e n t a r
+4 6 )   J u s t i f i c a t i v a   d o   d e s e m p a t a d o r   p a r a   a   s o l i c i t a ç ã o   d o   p r o c e d i m e n t o :
+4 7 )   D a t a   d e   f i n a l i z a ç ã o   d a   j u n t a   m é d i c a / o d o n t o l ó g i c a :  
+D a t a   e m   q u e   f o i   e n v i a d o   a   c a r t a   d e   c o n c l u s ã o   j u n t a m e n t e   c o m   o   l a u d o   a s s i n a d o   p e l o   d e s e m p a t a d o r   a o
+m é d i c o / o d o n t ó l o g o   s o l i c i t a n t e   e   a o   b e n e f i c i á r i o

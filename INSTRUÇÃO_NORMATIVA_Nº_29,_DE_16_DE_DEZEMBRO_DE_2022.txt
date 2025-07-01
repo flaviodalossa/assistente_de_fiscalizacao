@@ -1,0 +1,110 @@
+ANS - LEGISLAÇÃO
+INSTRUÇÃO NORMATIVA ANS Nº 29, DE 16 DE DEZEMBRO DE 2022
+Dispõe sobre os procedimentos da comunicação dos reajustes das contraprestações pecuniárias dos planos privados de assistência suplementar à saúde, contratados por pessoa jurídica, independentemente de sua segmentação e da data de contratação.
+A Diretoria Colegiada da Agência Nacional de Saúde Suplementar - ANS, no uso das atribuições que lhe confere o inciso III do art. 24, o inciso VII do art. 42 e o art. 46, todos da Resolução Regimental nº 21, de 26 de janeiro de 2022; para atendimento ao Decreto nº 10.139, de 28 de novembro de 2019; em reunião realizada em 12 de dezembro de 2022, adotou a seguinte Instrução Normativa e eu, Diretor-Presidente, determino a sua publicação
+CAPÍTULO I
+DAS DISPOSIÇÕES PRELIMINARES
+Art. 1º Os procedimentos para comunicação de reajustes e revisões de planos coletivos médico hospitalares, com ou sem cobertura odontológica, e dos exclusivamente odontológicos, de que tratam a Resolução Normativa nº 171, de 29 de abril de 2008 e a Resolução Normativa nº 172, de 8 de julho de 2008, ou em outras normas que venham a sucedê-las, independente da data da celebração do contrato, deverão observar o disposto nesta Instrução Normativa.
+CAPÍTULO II
+DAS DISPOSIÇÕES GERAIS
+Seção I
+Dos Prazos para Comunicação do Reajuste
+Art. 2º Os reajustes aplicados aos planos coletivos independentemente do número de beneficiários do contrato da carteira da operadora, deverão ser comunicados à ANS por meio de aplicativo Sistema de Comunicado de Reajuste de Planos Coletivos – RPC, pela Internet, trimestralmente, nos seguintes prazos:
+I - os reajustes aplicados em março, abril e maio deverão ser comunicados até o dia 30 de junho subsequente;
+II - os reajustes aplicados em junho, julho e agosto deverão ser comunicados até o dia 30 de setembro subsequente;
+III - os reajustes aplicados em setembro, outubro e novembro deverão ser comunicados até o dia 31 de dezembro subsequente;
+IV - os reajustes aplicados em dezembro, janeiro e fevereiro deverão ser comunicados até o dia 31 de março subsequente.
+§1º O aplicativo RPC e seu manual, bem como as dúvidas mais frequentes sobre seu preenchimento e operação, encontram-se disponíveis no sítio institucional da ANS na internet.
+§2º Para cada período de doze meses deverá haver ao menos uma comunicação de reajuste, revisão ou manutenção da contraprestação pecuniária.
+§ 3º As alterações de coparticipação e franquia também deverão ser comunicadas à ANS na forma do caput deste artigo.
+Seção II
+Dos Procedimentos para Comunicação do Reajuste
+Art. 3º A operadora poderá retificar ou cancelar os comunicados de reajuste enviados à ANS até o término do período subsequente ao que deveria comunicá-lo, na forma prevista no Anexo II, no prazo definido no art. 2º desta Instrução Normativa.
+Art. 4º Caso o percentual de reajuste esteja em negociação e não haja tempo hábil para a sua comunicação dentro do prazo previsto no art. 2º desta Instrução Normativa, deverá ser transmitido um comunicado informando que o reajuste está em negociação, na forma prevista no Anexo II.
+§ 1º Deverá ser transmitido novo comunicado em substituição ao comunicado previsto no caput, informando qualquer variação positiva, negativa ou igual a zero da contraprestação pecuniária.
+§ 2º O comunicado previsto no parágrafo anterior deverá ser transmitido à ANS nos seguintes períodos:
+I - os reajustes com aniversário em março, abril e maio deverão ser comunicados até o dia 31 de março do ano subsequente;
+II - os reajustes com aniversário em junho, julho e agosto deverão ser comunicados até o dia 30 de junho do ano subsequente;
+III - os reajustes com aniversário em setembro, outubro e novembro deverão ser comunicados até o dia 30 de setembro do ano subsequente;
+IV - os reajustes com aniversário em dezembro deverão ser comunicados até o dia 31 de dezembro do ano subsequente; e
+V - os reajustes com aniversário em janeiro e fevereiro deverão ser comunicados até o dia 31 de dezembro subsequente.
+§3º Caso o contrato seja rescindido durante a negociação do percentual de reajuste, sem que tenha havido aplicação do reajuste anual, a operadora não deverá transmitir novo comunicado e deverá cancelar o comunicado que informou que o reajuste estava em negociação, conforme disciplina o item 5 do Anexo II desta Instrução Normativa.
+Art. 5º Caso o contrato seja rescindido antes da aplicação do reajuste anual, não deverá haver a comunicação do percentual via RPC.
+Parágrafo único. Na situação prevista no caput, caso o comunicado já tenha sido enviado à ANS, a operadora deverá solicitar o seu cancelamento, conforme disciplina o item 5 do Anexo II desta Instrução Normativa.
+Art. 6º Havendo comunicação, retificação ou cancelamento de reajuste tardiamente, após a lavratura de auto de infração ou de representação, será presumido que houve lesão irreversível ao bem jurídico tutelado pela norma.
+Parágrafo único. Havendo comunicação, retificação ou cancelamento de reajuste tardiamente, em data anterior à lavratura do auto de infração ou de representação, resultando no cumprimento útil da obrigação, aplicar-se-á o instituto da reparação voluntária e eficaz.
+Art. 7º Os percentuais de reajuste e revisão informados à ANS devem refletir o reajuste efetivamente praticado pela operadora, não podendo estar acima ou abaixo do aplicado.
+§ 1º Deverá ser comunicada qualquer variação positiva, negativa, ou nula, do valor da contraprestação pecuniária, seja decorrente de reajuste, revisão ou de sua manutenção.
+§ 2º O percentual de reajuste informado no comunicado deverá se referir à alteração do valor da contraprestação pecuniária em relação ao valor correspondente ao mês anterior ao da aplicação.
+§ 3º Entende-se por variação nula a manutenção do valor da contraprestação pecuniária após a conclusão da negociação anual referente ao aniversário do contrato.
+§ 4º Quando houver aplicação de reajuste não linear, conforme definido no Anexo I desta Instrução Normativa e observadas as disposições da Resolução Normativa nº 195, de 14 de julho de 2009, ou norma que vier a sucedê-la, deverão ser respeitados os limites de variação entre as faixas etárias, conforme disposto na Resolução CONSU nº 6, de 4 de novembro de 1998, e na Resolução Normativa nº 63, de 23 de dezembro de 2003, ou norma que vier a sucedê-las, considerando a data de celebração do contrato.
+Art. 8º A operadora deverá observar adicionalmente as regras contidas no Anexo II desta Instrução Normativa, nas seguintes hipóteses:
+I - quando a negociação anual tenha ultrapassado o mês de aniversário do contrato;
+II - exclusivamente para contratos vigentes que permaneçam incompatíveis com a Resolução Normativa nº 195, de 2009, ou norma que vier a sucedê-la, quando a definição do percentual de reajuste e do período de aplicação de um mesmo plano e contrato for diferenciada em função da data de adesão de seus beneficiários;
+III - quando a contraprestação pecuniária for cobrada por meio de um percentual fixo da renda percebida;
+IV - quando o reajuste for aplicado de forma parcelada;
+V – para retificar ou cancelar comunicados de reajuste; e
+VI - quando o contrato estiver agregado ao Agrupamento de Contratos da operadora, regulamentado pela Resolução Normativa nº 309, de 24 de outubro de 2012, ou norma que vier a sucedê-la.
+CAPÍTULO III
+DAS DISPOSIÇÕES FINAIS
+Art. 9º O preenchimento das informações a que se refere esta Instrução Normativa deverá seguir as definições constantes de seus Anexos.
+Art. 10. Somente serão considerados, para fins de cumprimento desta Instrução Normativa, os comunicados que forem incorporados à base de dados da ANS, sendo de inteira responsabilidade da operadora a verificação da incorporação dos respectivos dados.
+Parágrafo Único. Para a incorporação de que trata o caput deste artigo, os comunicados deverão ser gerados e enviados na versão do aplicativo disponível na data da transmissão.
+Art. 11. Ficam revogados:
+I - o inciso X do art. 1º e o art. 11, ambos da Resolução Normativa nº 274, de 20 de outubro de 2011;
+II - a Instrução Normativa nº 13, de 21 de julho de 2006, da Diretoria de Normas e Habilitação dos Produtos; e
+III - a Instrução Normativa nº 47, de 4 de dezembro de 2014, da Diretoria de Normas e Habilitação dos Produtos.
+Art. 12. Esta Instrução Normativa entra em vigor em 01 de fevereiro de 2023.
+PAULO ROBERTO REBELLO FILHO
+Diretor-Presidente
+Este texto não substitui o texto normativo original e nem o de suas alterações, caso haja, publicados no Diário Oficial.
+ANEXO I
+ANEXO II
+CORRELAÇÕES
+:
+RR nº 21, de 2022
+Decreto nº 10.139, de 2019
+A IN nº 29 revogou:
+O inciso X do art. 1º e o art. 11, da RN nº 274, 2011
+IN nº 13, de 2006;
+e
+IN nº 47, de 2014
+* AVISO DE RETIFICAÇÃO
+Publicado no DOU nº 25, Seção 1, em 03/02/2023, pág.35
+Onde se lê:
+“A Diretoria Colegiada da Agência Nacional de Saúde Suplementar - ANS, para atendimento ao Decreto nº 10.139, de 28 de novembro de 2019, e em vista o que dispõem os incisos VI, VII e VIII do artigo 28, o inciso VII do artigo 42 e o artigo 46, todos da Resolução Regimental nº 21, de 26 de janeiro de 2022, resolve adotar a presente Instrução Normativa”
+Leia-se:
+“A Diretoria Colegiada da Agência Nacional de Saúde Suplementar - ANS, no uso das atribuições que lhe confere o inciso III do art. 24, o inciso VII do art. 42 e o art. 46, todos da Resolução Regimental nº 21, de 26 de janeiro de 2022; para atendimento ao Decreto nº 10.139, de 28 de novembro de 2019; em reunião realizada em 12 de dezembro de 2022, adotou a seguinte Instrução Normativa e eu, Diretor-Presidente, determino a sua publicação.”
+No item 11.1 do Anexo I:
+Onde se lê:
+“11.1. No caso de reajuste não linear, o percentual deve ser calculado como a média dos reajustes ponderada pelo número de beneficiários de acordo com a seguinte fórmula:
+r = (r1 x b1) + (r2 x b2) + ... + ...+ (rn x bn)
+Nº de beneficiários total
+Onde:
+- r é o percentual de reajuste total aplicado ao contrato;
+- n é o número de grupos aos quais foram aplicados reajustes diferenciados dentro de um mesmo contrato e produto;
+- rn é o percentual aplicado ao n-ésimo grupo de beneficiários do contrato; e
+- bn é o número de beneficiários do n-ésimo grupo de beneficiários do contrato.
+Nesse caso, os grupos de beneficiários, os números de beneficiários por grupo e os respectivos percentuais deverão estar discriminados na justificativa técnica.”
+Leia-se:
+“11.1. No caso de reajuste não linear, o percentual deve ser calculado como a média dos reajustes ponderada pelo número de beneficiários de acordo com a seguinte fórmula:
+FIGURA 1
+Onde:
+- r é o percentual de reajuste total aplicado ao contrato;
+- n é o número de grupos aos quais foram aplicados reajustes diferenciados dentro de um mesmo contrato e produto;
+- rn é o percentual aplicado ao n-ésimo grupo de beneficiários do contrato; e
+- bn é o número de beneficiários do n-ésimo grupo de beneficiários do contrato.
+Nesse caso, os grupos de beneficiários, os números de beneficiários por grupo e os respectivos percentuais deverão estar discriminados na justificativa técnica.”
+No item 2 do Anexo II:
+Onde se lê:
+“2. Exclusivamente para contratos vigentes que permaneçam incompativeis com a Resolução Normativa nº 195, de 14 de julho de 2009, ou norma que vier a sucedê-la, quando a definição do percentual de reajuste e do período de aplicação de um mesmo produto e contrato for diferenciada em função da data de adesão de seus beneficiários:
+A operadora deverá comunicar um percentual único e calculado como a média dos reajustes aplicados a cada mês em que houve aniversário de adesão de beneficiários ponderada pela quantidade de beneficiários em cada grupo de adesão, de acordo com a seguinte fórmula:
+PF = (r1 x b1) + (r2 x b2) + ... + (rn x bn)
+QB
+(...)”
+Leia-se:
+“2. Exclusivamente para contratos vigentes que permaneçam incompatíveis com a RResolução Normativa nº 195, de 14 de julho de 2009, ou norma que vier a sucedê-la, quando a definição do percentual de reajuste e do período de aplicação de um mesmo produto e contrato for diferenciada em função da data de adesão de seus beneficiários:
+A operadora deverá comunicar um percentual único e calculado como a média dos reajustes aplicados a cada mês em que houve aniversário de adesão de beneficiários ponderada pela quantidade de beneficiários em cada grupo de adesão, de acordo com a seguinte fórmula:
+FIGURA 2
+(...)”
+VOLTAR

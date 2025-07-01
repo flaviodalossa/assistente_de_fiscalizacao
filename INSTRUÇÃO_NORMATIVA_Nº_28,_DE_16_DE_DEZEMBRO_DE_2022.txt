@@ -1,0 +1,162 @@
+ANS - LEGISLAÇÃO
+INSTRUÇÃO NORMATIVA ANS Nº 28, DE 16 DE DEZEMBRO DE 2022
+Dispõe sobre os procedimentos do Registro de Produtos.
+A Diretoria Colegiada da Agência Nacional de Saúde Suplementar – ANS, para atendimento ao Decreto nº 10.139, de 28 de novembro de 2019, e em vista o que dispõem os incisos VI, VII e VIII do artigo 28, o inciso VII do artigo 42 e o artigo 46, todos da Resolução Regimental nº 21, de 26 de janeiro de 2022, resolve adotar a presente Instrução Normativa.
+CAPÍTULO I
+DAS DISPOSIÇÕES PRELIMINARES
+Art. 1º A presente Instrução Normativa tem por objeto estabelecer normas sobre os procedimentos para concessão, manutenção e cancelamento dos registros dos produtos junto à ANS.
+CAPÍTULO II
+DAS DISPOSIÇÕES GERAIS
+Seção I
+Da Solicitação do Registro de Produto
+Art. 2º Para obtenção do registro de produto, é necessário o envio das informações previstas na regulamentação em vigor por meio do aplicativo de Registro de Planos de Saúde (RPS), disponível na página institucional da ANS na
+internet
+- www.gov.br/ans, e o encaminhamento dos seguintes documentos:
+I - documento de solicitação de registro de produto, assinado e com identificação do representante da operadora junto à ANS, contendo o Nome Comercial do(s) produto(s) informado(s) no aplicativo; e
+II - comprovante de incorporação de informações emitido na “Verificação de Incorporação de Dados”, na página institucional da ANS na
+internet
+- www.gov.br/ans.
+Parágrafo único. A documentação incompleta ou em desacordo com os itens acima será devolvida para que a operadora regularize no prazo de até trinta dias, após a comunicação, contados do recebimento.
+Subseção I
+Do Envio e Análise Eletrônicos das Informações
+Art. 3º Para cadastrar as informações no aplicativo RPS, antes de solicitar eletronicamente o registro de produto, a operadora deverá:
+I - recolher a Taxa de Saúde Suplementar por Registro de Produto (TRP), conforme definido na Lei nº 9.961, de 28 de janeiro de 2000, e detalhado na Resolução Normativa nº 493, de 29 de março de 2022, e posteriores alterações; e
+II - encaminhar a Nota Técnica de Registro de Produto (NTRP), respeitando a exigência normativa específica.
+Art. 4º Quanto à NTRP, deve-se observar:
+I - para o produto com formação de preço pós-estabelecido não há obrigação de envio da NTRP, tendo em vista que o valor da contraprestação pecuniária é estabelecido após realização das despesas com as coberturas contratadas;
+II - os documentos da NTRP, previstos na regulamentação em vigor, e a declaração de suficiência dos valores estabelecidos para as contraprestações pecuniárias deixam de ser encaminhados, devendo permanecer na operadora pelo período mínimo de cinco anos;
+III - nos planos Coletivos, não poderá haver distinção quanto ao valor da contraprestação pecuniária entre os beneficiários, dependente ou titular, que vierem a ser incluídos no contrato e os a ele já vinculados, dentro de uma mesma faixa etária;
+IV - nos planos Individuais ou Familiares, quando ocorrer inclusão de um novo dependente, a contraprestação pecuniária deverá ser cobrada com base em uma das seguintes regras:
+a) o valor da tabela de comercialização adotada na contratação do titular, cuja atualização poderá se dar com base nos reajustes autorizados pela ANS aplicados ao contrato; ou
+b) o valor da contraprestação pecuniária do titular, ajustado de acordo com as variações entre as faixas etárias apresentadas no contrato, quando for o caso.
+Art. 5º Para cadastrar as informações no aplicativo RPS, a operadora deverá observar as disposições do Manual do Usuário do Sistema de Registro de Planos de Saúde - RPS, disponível no endereço eletrônico da ANS na
+internet.
+Art. 6º No envio das informações referentes às características gerais deverão ser observadas as definições constantes na regulamentação em vigor sobre o tema.
+Parágrafo único. É vedado estabelecer nomes comerciais que possam confundir ou induzir o beneficiário a erro sobre as características do produto.
+Art. 7º Todos os prestadores da rede assistencial da operadora de planos de assistência à saúde (entidades hospitalares, consultórios, clínicas ambulatoriais e SADT) devem estar informados no Cadastro de Estabelecimentos de Saúde da ANS.
+§1º A rede assistencial oferecida aos beneficiários deverá contemplar os serviços necessários ao atendimento de todas as doenças previstas na Classificação Estatística Internacional de Doenças e Problemas Relacionados com a Saúde, observando o rol de procedimentos em vigor.
+§2º As entidades com assistência hospitalar e os serviços de urgência e emergência necessitam de vinculação à solicitação de registro do plano de saúde de segmentação hospitalar ou referência.
+§3º No plano de segmentação ambulatorial, apenas as entidades ou serviços de urgência e emergência deverão ser vinculados à solicitação de registro de produto.
+Art. 8º No envio pelo aplicativo RPS das informações referentes à rede assistencial, deverão ser informados todos os prestadores de serviços, da rede própria e/ou contratualizada, direta ou indiretamente, necessários ao atendimento integral da cobertura prevista nos artigos 10, 10-A, 10-B, 10-C e 12 da Lei n° 9.656, de 1998.
+Art. 9º Quanto à estrutura e serviços assistenciais disponíveis nos prestadores de serviço, serão considerados os constantes do CNES, inclusive quanto à disponibilidade destes na área prevista para cobertura assistencial do produto.
+Art. 10. Nas análises das solicitações de registro de produtos serão verificadas:
+I - a compatibilidade com os normativos vigentes das características informadas do produto listadas a seguir:
+a) segmentação assistencial, tipo de contratação, área geográfica de abrangência, área de atuação, padrão de acomodação em internação, acesso a livre escolha de prestadores, fator moderador, formação do preço, condições de vínculo do beneficiário em planos coletivos, serviços e coberturas adicionais; e
+b) a disponibilidade de prestadores de serviços, nos termos dos artigos 7º e 8º da presente Instrução Normativa.
+II - o envio de NTRP, quando requerido;
+III - o recolhimento da TRP.
+§1º Após cientificar-se das pendências na página institucional da ANS na
+internet
+- www.gov.br/ans, em relatório específico disponível no “acompanhamento de solicitações”, a operadora deverá, no prazo de trinta dias, promover o ajuste das condições de operação do produto quando imprecisas ou conflitantes com a legislação em vigor.
+§2º Após o envio de novo arquivo e caso a segunda análise continue identificando não cumprimento dos requisitos, será gerado novo relatório de pendências, cujo conteúdo também estará disponível no “acompanhamento de solicitações”, e a operadora terá a terceira e última oportunidade para cumprí-los no prazo de trinta dias.
+Art. 11. Ocorrendo a inércia da operadora e vencidos os prazos dispostos no artigo 10 ou, após o terceiro envio as incorreções e/ou insuficiências não tenham sido sanadas, a solicitação será indeferida.
+Subseção II
+Da Concessão do Registro de Produto
+Art. 12. Após a incorporação de dados, e a análise das características informadas e da documentação encaminhada, serão verificados os seguintes requisitos para a concessão do registro de produto:
+I - a existência de plano-referência na situação de Ativo para comercialização, no mesmo tipo de contratação, quando obrigatório o seu oferecimento; ou
+II - a existência de plano com formação de preço pré-estabelecido na situação de Ativo para comercialização, no mesmo tipo de contratação, quando se tratar de solicitação de registro de um plano odontológico com formação de preço misto.
+Art. 13. Verificada a conformidade de todos os aspectos será concedido o registro de produto, cujo número também estará disponível no endereço eletrônico www.ans.gov.br em “acompanhamento de solicitações”.
+Art. 14. A operadora deverá obrigatoriamente entregar ao contratante cópia do Contrato/Regulamento contendo os temas de acordo com as orientações do Manual de Elaboração dos Contratos de Planos de Saúde, Anexo I desta Instrução Normativa.
+Parágrafo único. A cópia do Contrato/Regulamento de que trata este artigo deverá ser individualizada para cada plano registrado, sendo vedada a entrega de documento que contenha informações pertinentes a vários planos distintos, contendo a opção do contratante por determinado plano e/ou opção por módulos de segmentação assistencial.
+Seção II
+Do Padrão XML Para Troca de Informações Entre as Operadoras e o RPS
+Art. 15. A troca de informações entre as operadoras e o RPS relativa aos procedimentos previstos nesta Instrução Normativa deverá ser realizada por meio eletrônico, no formato XML (
+Extensible Markup Language
+), nos moldes da Instrução Normativa nº 3, de 30 de março de 2022.
+Seção III
+Da Manutenção do Registro de Produtos
+Art. 16. Na operação de alienação de carteira será exigida, quando for o caso, cópia do comprovante de pagamento da respectiva Taxa de Alteração de Produto (TAP) por todo registro de produto alterado, ressalvadas as hipóteses previstas no §4º, do artigo 20 da Lei nº 9.961, de 2000.
+Subseção I
+Das Alterações de Nome do Produto
+Art. 17. O pedido de alteração do nome do produto, somente poderá ser implementado nos produtos regularizados nos termos da regulamentação em vigor.
+Parágrafo único. O pedido deverá ser encaminhado por meio de documento assinado pelo representante legal da operadora, juntamente com cópia do comprovante de pagamento da respectiva Taxa por Alteração de Dados do Produto (TAP).
+Subseção II
+Das Alterações de Rede de Prestadores Hospitalares
+Art. 18. A forma e os procedimentos para solicitação de substituição de entidade hospitalar e de redimensionamento de rede por redução serão disciplinados em Instrução Normativa específica.
+Subseção III
+Da Suspensão e Reativação do Registro de Produtos
+Art. 19. A suspensão ou reativação de registro de produto a pedido da operadora, para fins de comercialização ou disponibilização, observará os seguintes critérios:
+I - deverá ser formulada por escrito, com trinta dias de antecedência da data pretendida para a suspensão ou reativação, contados da data da protocolização na ANS, contendo a identificação e assinatura do seu representante legal junto à Agência, o número de seu registro, o número de registro do produto e a data a partir da qual este será suspenso ou reativado;
+II - somente será suspenso o registro de produto em situação "ativo", conforme definição prevista na regulamentação em vigor sobre registro de produtos;
+III - não será suspenso o último plano referência, caso haja algum plano ativo no mesmo tipo de contratação;
+IV - não será suspenso o último plano odontológico com formação de preço pré-estabelecida, caso haja algum plano com formação de preço misto ativo no mesmo tipo de contratação; e
+V - somente será reativado o registro de produto em situação "ativo com comercialização suspensa", conforme definição prevista na regulamentação em vigor sobre registro de produtos.
+Parágrafo único. Será indeferido o pedido de suspensão ou reativação de registro de produto cuja documentação esteja em desacordo com o disposto no inciso I.
+Seção IV
+Do Monitoramento do Registro e Operação de Planos
+Art. 20. Todos os planos registrados serão objeto de monitoramento.
+§1º Irregularidade contratual, irregularidade na rede de prestadores, irregularidade assistencial ou irregularidade econômico-financeira na operação do produto, ensejará a suspensão temporária do registro do produto para fins de comercialização ou disponibilização, bem como de todos os registros de produtos que apresentarem a mesma irregularidade, até que seja corrigida;
+§2º Nos casos de irregularidade contratual a suspensão ocorrerá nas seguintes hipóteses:
+I - operação de produto de forma diversa da registrada;
+II - operação de produto com nome do produto que possa confundir ou induzir o beneficiário a erro sobre as suas características; e
+III - operação de produto que não se enquadre no disposto no artigo 1º, inciso I, da Lei 9656, de 1998.
+§3º Excepcionalmente, quando se tratar de hipótese prevista no inciso I do § 2º, não ensejará alteração da situação do registro do produto, caso se constate que o nome do produto adotado na comercialização não esteja induzindo o beneficiário ao erro, devendo ser adotado o procedimento disposto no art. 21 desta Instrução Normativa.
+§4º Nos casos em que a irregularidade for identificada no âmbito da apuração de denúncias pela Diretoria de Fiscalização, a Diretoria de Normas e Habilitação de Produtos, mediante solicitação, efetuará a suspensão do registro do produto.
+Art. 21. Aplicada a suspensão, a operadora será notificada para alteração de condições de operação do produto ou envio de esclarecimentos, no prazo de até dez dias contados da data de sua notificação.
+§1º Persistindo o não atendimento aos requisitos solicitados na notificação ou não tendo sido enviada a resposta no prazo estabelecido no
+caput
+deste artigo, a Diretoria de Normas e Habilitação de Produtos encaminhará procedimento à Diretoria de Fiscalização para adoção das providências cabíveis.
+§2º Uma vez verificada a regularização das condições de operação, o plano retornará à situação anterior.
+§3º Não se aplicam o
+caput
+e o §1º deste artigo nos casos em que a irregularidade for identificada no âmbito de apuração de denúncias pela Diretoria de Fiscalização.
+Seção V
+Do Cancelamento do Registro de Produto
+Art. 22. O pedido de cancelamento de registro de produtos deverá observar o disposto na regulamentação em vigor, devendo ser encaminhado por meio de documento assinado pelo representante da operadora junto à ANS.
+Art. 23. A análise de pedido de cancelamento de registro de produtos observará:
+I - inexistência de beneficiário vinculado, verificada na base de dados atualizada do SIB; e
+II - existência de pelo menos um registro de plano-referência para o tipo de contratação solicitada.
+Parágrafo único. A situação descrita no inciso II do
+caput
+deste artigo será desconsiderada, quando a análise for etapa precedente ao cancelamento da autorização de funcionamento e do registro da operadora.
+CAPÍTULO III
+DAS DISPOSIÇÕES FINAIS
+Art. 24. Submetem-se a esta Instrução Normativa todos os produtos registrados, independente da data de concessão.
+Art. 25. Os documentos mencionados nesta Instrução Normativa poderão ser encaminhados por meio eletrônico ou por correspondência endereçada à ANS, localizada na Avenida Augusto Severo, nº 84, Glória, CEP: 20.021-040, Rio de Janeiro/ RJ, dentro de envelope lacrado e identificado por meio de etiqueta, com as seguintes informações:
+I - razão social da operadora;
+II - registro da operadora na ANS; e
+III - identificação da solicitação:
+a) registro de produto;
+b) alteração de nome do produto;
+c) suspensão de registro de produto;
+d) reativação de registro de produto; ou
+e) cancelamento de registro de produto.
+Art. 26. As operadoras que não complementaram os dados de seus produtos com registro provisório, de acordo com a regulamentação em vigor, deverão fazê-lo através do aplicativo Adequação do Registro de Planos de Saúde - ARPS.
+Parágrafo único. O não-cumprimento do disposto neste artigo ensejará a suspensão da comercialização do produto ou o cancelamento do registro de produto.
+Art. 27. As eventuais normas vigentes que determinarem a atualização do cadastro dos temas do instrumento jurídico dos planos às suas disposições passam a disciplinar apenas a alteração dos contratos celebrados entre as partes.
+§1º Não estarão sujeitas à aprovação prévia da ANS as alterações dos contratos tratados no
+caput
+, sendo responsabilidade da operadora observar o cumprimento dos normativos vigentes.
+§2º Os produtos cuja comercialização tenha sido suspensa exclusivamente por não adequação do cadastro do instrumento jurídico à Resolução Normativa nº 195, de 2009, ou por divergências no texto do instrumento jurídico cadastrado poderão ter sua situação de registro alterada para "Ativo", mediante solicitação da operadora, desde que declare que somente receberão beneficiários titulares os contratos que estiverem adequados à legislação em vigor.
+§3º Os produtos cuja comercialização tenha sido suspensa por divergências no contrato obedecerão ao procedimento descrito no artigo 21 desta Instrução Normativa.
+Art. 28. O Anexo I estará disponível na página da ANS para consulta e cópia na página institucional da ANS na
+internet
+- www.gov.br/ans.
+Art. 29. Ficam revogados:
+I - a Instrução Normativa n˚ 23, de 1º de dezembro de 2009, da Diretoria de Normas e Habilitação dos Produtos;
+II - a Instrução Normativa n˚ 27, de 07 de abril de 2010, da Diretoria de Normas e Habilitação dos Produtos;
+III - a Instrução Normativa n˚ 28, de 29 de julho de 2010, da Diretoria de Normas e Habilitação dos Produtos;
+IV - a Instrução Normativa n˚ 39, de 31 de maio de 2012, da Diretoria de Normas e Habilitação dos Produtos;
+V - a Instrução Normativa n˚ 45, de 03 de outubro de 2014, da Diretoria de Normas e Habilitação dos Produtos;
+VI - os artigos 20 e 21 da Instrução Normativa n˚ 46, de 03 de outubro de 2014, da Diretoria de Normas e Habilitação dos Produtos;
+VII - o artigo 12 da Instrução Normativa n˚ 3, de 30 de março de 2022; e
+VIII - o artigo 4˚ da Resolução Normativa n˚ 324, de 18 de abril de 2013.
+Art. 30. Esta Instrução Normativa entra em vigor em 1º de fevereiro de 2023.
+PAULO ROBERTO REBELLO FILHO
+Diretor-Presidente
+Este texto não substitui o texto normativo original e nem o de suas alterações, caso haja, publicados no Diário Oficial.
+ANEXO
+CORRELAÇÕES
+:
+RR nº 21, de 2022
+Decreto nº 10.139, de 2019
+A IN nº 28 revogou:
+IN n˚ 23, de 2009
+IN n˚ 27, de 2010
+IN n˚ 28, de 2010
+IN n˚ 39, de 2012
+IN n˚ 45, de 2014
+Artigos 20 e 21 da IN n˚ 46, de 2014
+Artigo 12 da IN n˚ 3, de 2022; e
+Artigo 4˚ da RN  n˚ 324, de 2013.
+VOLTAR

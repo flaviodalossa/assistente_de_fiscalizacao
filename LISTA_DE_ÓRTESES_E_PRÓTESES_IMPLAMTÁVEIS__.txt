@@ -1,0 +1,644 @@
+produto tipos subtipos especialidade via de implantação classificação observações
+Âncora metálica/absorvívelOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Anel corneano intraestromal inorgânico Oftalmologia cirurgia aberta Órtese implantável
+Anel para anuloplastia valvar parcial flexível sintético Cirurgia Cardiovascular cirurgia aberta Órtese implantável
+Anel para anuloplastia valvar parcial rígido sintético Cirurgia Cardiovascular cirurgia aberta Órtese implantável
+Anel para anuloplastia valvar parcial absorvível Cirurgia Cardiovascular cirurgia aberta Órtese implantável
+Anel para anuloplastia valvar total flexível sintético Cirurgia Cardiovascular cirurgia aberta Órtese implantável
+Anel para anuloplastia valvar total rígido sintético Cirurgia Cardiovascular cirurgia aberta Órtese implantável
+Anel para anuloplastia valvar total absorvível Cirurgia Cardiovascular cirurgia aberta Órtese implantável
+Ânus artificial sintética Coloproctologia cirurgia aberta Órtese implantável
+Aparelho de audiçãoparcialmente 
+implantáveleletrônica Otorrinolaringologia cirurgia aberta Órtese implantável
+Aparelho de vibração óssea 
+implantado na calota cranianaparcialmente 
+implantáveleletro-mecânico Otorrinolaringologia cirurgia aberta Órtese implantável
+Barra (haste) transversal metálico Neurocirurgia /Ortopedia cirurgia aberta Órtese implantável
+Barra sacral metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Bomba centrífuga eletro-mecânico Cirurgia Cardiovascular cirurgia aberta Órtese implantável
+Cabos para amarrilha metálico Neurocirurgia/Ortopedia cirurgia aberta Órtese implantável
+Cage (dispositivo metálico/sintético Ortopedia/Neurocirurgia cirurgia aberta Órtese implantável
+Cânula de traqueostomia vários modelos metálica ou sintéticaCirurgia 
+Torácica/Otorrinolaringologia/Cir.Cabeça e Pescoçocirurgia aberta ou 
+percutâneaÓrtese implantável
+Cardioversor/desfibrilador 
+implantávelunicameral eletrônico Cirurgia Cardiovascularcirurgia aberta ou 
+endovascularÓrtese implantávelconsiderado em Conjunto 
+(gerador + eletrodos)
+Cardioversor/desfibrilador implantávelbicameral eletrônico Cirurgia Cardiovascularcirurgia aberta ou 
+endovascularÓrtese implantávelconsiderado em Conjunto 
+(gerador + eletrodos)
+Cardioversor/desfibrilador implantáveltricameral eletrônico Cirurgia Cardiovascularcirurgia aberta ou 
+endovascularÓrtese implantávelconsiderado em Conjunto 
+(gerador + eletrodos)
+Cateter duplo J
+hidrofílico Urologiacirurgia aberta ou 
+endoscópicaÓrtese implantável
+Cateter duplo J não hidrofílico Urologiacirurgia aberta ou 
+endoscópicaÓrtese implantável
+Cateter duplo J metálico Urologiacirurgia aberta ou 
+endoscópicaÓrtese implantável
+Ceratoprótese inorgânico Oftalmologia cirurgia aberta Prótese implantável
+Clip de aneurisma cerebral metálico Neurocirurgia cirurgia aberta Órtese implantável
+Componente implantável para fixação de Prótese facial metálicoOtorrinolaringologia/Crânio 
+Maxilo Facialcirurgia aberta Órtese implantávelParafuso ou Dispositivo 
+que prende a Prótese 
+Condutos permeabilizadores de vias lacrimaistubos e sondas sintéticoOftalmologia/Otorrinolaringol
+ogiacirurgia aberta Órtese implantávelLISTA DE ÓRTESES E PRÓTESES IMPLANTÁVEIS
+Conector de Barra para 
+transição cervico-torácica metálico Neurocirurgia/Ortopedia cirurgia aberta Órtese implantável
+Conjunto derivação pleuro- sintética Cirurgia Torácica cirurgia aberta Órtese implantável
+Conjunto para cifoplastia sintético Neurocirurgia/Ortopedia cirurgia aberta Órtese implantável
+Conjunto para cranioplastia e componentes ( tela e titânio Neurocirurgia cirurgia aberta Órtese implantável
+Conjunto para derivação inorgânico Neurocirurgia cirurgia aberta Órtese implantável
+Conjunto para derivação 
+ventricularConjunto para 
+derivação ventrículo-atrialinorgânico Neurocirurgia cirurgia aberta Órtese implantável
+Conjunto para derivação 
+ventricularConjunto para 
+derivação ventrículo-inorgânico Neurocirurgia cirurgia aberta Órtese implantável
+Conjunto para vertebroplastia sintético Neurocirurgia/Ortopedia cirurgia aberta Órtese implantável
+Conjunto ventrículo artificial definitivoUniventricular 
+rotativoeletro-mecânico Cirurgia Cardiovascular cirurgia aberta Prótese implantávelInclui tubula
+ções e cânulas  
+específicas
+Conjunto ventrículo artificial definitivoUniventricular 
+pulsátileletro-mecânico Cirurgia Cardiovascular cirurgia aberta Prótese implantávelInclui tubula
+ções e cânulas  
+específicas
+Conjunto ventrículo artificial definitivoBiventricular 
+rotativoeletro-mecânico Cirurgia Cardiovascular cirurgia aberta Prótese implantávelInclui tubula
+ções e cânulas  
+específicas
+Conjunto ventrículo artificial definitivoBiventricular 
+pulsátileletro-mecânico Cirurgia Cardiovascular cirurgia aberta Prótese implantávelInclui tubula
+ções e cânulas  
+específicas
+Conjunto ventrículo artificial temporárioUniventricular 
+rotativoeletro-mecânico Cirurgia Cardiovascular cirurgia aberta Prótese implantávelInclui tubula
+ções e cânulas  
+específicas
+Conjunto ventrículo artificial temporárioUniventricular 
+pulsátileletro-mecânico Cirurgia Cardiovascular cirurgia aberta Prótese implantávelInclui tubula
+ções e cânulas  
+específicas
+Conjunto ventrículo artificial temporárioBiventricular 
+rotativoeletro-mecânico Cirurgia Cardiovascular cirurgia aberta Prótese implantávelInclui tubula
+ções e cânulas  
+específicas
+Conjunto ventrículo artificial temporárioBiventricular 
+pulsátileletro-mecânico Cirurgia Cardiovascular cirurgia aberta Prótese implantávelInclui tubula
+ções e cânulas  
+específicas
+Constritor uretral sintética Urologia cirurgia aberta Órtese implantável
+Cordas artificiais orgânica Cirurgia Cardiovascular cirurgia aberta Prótese implantável ex: pericárdio bovino
+Cordas artificiais inorgânica Cirurgia Cardiovascular cirurgia aberta Prótese implantável ex: PTFE
+Dispositivo de bloqueio metálico Ortopedia/Neurocirurgia cirurgia aberta Órtese implantável
+Dispositivo intersomático de manutenção do espaço metálico/sintético Ortopedia/Neurocirurgia cirurgia aberta Órtese implantável
+Dispositivo para correção de 
+"shunt" extra-para correção de 
+canal arterial sintético Hemodinâmica endovascular Órtese implantável
+Dispositivo para correção de 
+"shunt" intra-cardíaco para defeitos do 
+septo interatrial sintético Hemodinâmica endovascular Órtese implantável
+Dispositivo para correção de 
+"shunt" intra-cardíaco para defeitos do 
+septo sintético Hemodinâmica endovascular Órtese implantável
+Distrator mandibular de 
+titânio interno ou externo metálicoCirurgia Plástica/ Crânio 
+Maxilocirurgia aberta Órtese implantável
+ECLA conjunto eletro-mecânicoCirurgia 
+Cardiovascular/Cirurgia cirurgia aberta Órtese implantávelconjunto de oxigenador, 
+bomba centrífuga e 
+ECMO conjunto eletro-mecânico Cirurgia Cardiovascular cirurgia aberta Órtese implantávelconjunto de oxigenador , 
+bomba centrífuga e 
+cânulas
+Endoprótese reta sintéticaCirurgia Cardiovascular/ 
+Cirurgia Vascular/Radiologia Intervencionista/Hemodinâmiendovascular Prótese implantável
+Endoprótese fenestrada sintéticaCirurgia Vascular/Cirurgia 
+Cardiovascular/Radiologia Intervencionista/Hemodinâmiendovascular Prótese implantável
+Endopróteseramificada(visceral 
+e ilíacas)sintéticaCirurgia 
+Vascular/Cardiovascular/Radiologia Intervencionista/Hemodinâmiendovascular Prótese implantável
+Endoprótese bifurcada sintéticaCirurgia 
+Vascular/Cardiovascular/Radiologia Intervencionista/Hemodinâmiendovascular Prótese implantável
+ Enxerto vascular tubular valvadoorgânico com valva 
+biológicaCirurgia Cardiovascular cirurgia aberta Prótese implantávelvalva revestida pericárdio 
+bovino, acoplada ao 
+ Enxerto vascular tubular valvadoinorgânico com valva 
+de metalCirurgia Cardiovascular cirurgia aberta Prótese implantávelvalva metálica acoplada 
+ao Enxerto
+ Enxerto vascular tubular reto orgânicoCirurgia Cardiovascular/ 
+Cirurgia Vascularcirurgia aberta Prótese implantável
+ Enxerto vascular tubular reto sintéticaCirurgia Cardiovascular/ 
+Cirurgia Vascularcirurgia aberta Prótese implantável
+ Enxerto vascular tubular ramificado orgânicoCirurgia Cardiovascular/ 
+Cirurgia Vascularcirurgia aberta Prótese implantável
+ Enxerto vascular tubular bifurcado sintética
+Cirurgia Vascular/Cirurgia 
+Cardiovascular/Radiologia 
+Intervencionista/Hemodinâmi
+cacirurgia aberta Prótese implantável
+Esfíncter urinário artificialflexível com ou 
+sem "cuff"silicone/sintética Urologia cirurgia aberta Órtese implantávelmodelos variam conforme 
+fabricante
+Espaçador de tendãovários tamanhos e 
+formasinorgânicoCirurgia 
+Plástica/Ortopedia/Cirurgia da Mãocirurgia aberta Órtese implantável
+Espaçador de tendão siliconeOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Espaçador interespinhoso inorgânico Neurocirurgia/Ortopedia cirurgia aberta Órtese implantável
+Expansor sacular inorgânico Oftalmologia cirurgia aberta Órtese implantável
+Expansor tecidual silicone Ortopedia/Cirurgia da Mão cirurgia aberta Órtese implantável
+Expansor torácico posterior para escoliose (VEPTeR) metálico Neurocirurgia/Ortopedia cirurgia aberta Órtese implantável
+Fio de cerclagem metálicoCirurgia 
+Plástica/Ortopedia/Cirurgia da Mão/Cirurgia cirurgia aberta Órtese implantável
+Fio de Kirschner metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta ou 
+percutâneaÓrtese implantável para osteossíntese
+Fita para reconstrução Ortopedia cirurgia aberta Órtese implantável
+Fita para síntese esternal aço - inorgânico Cirurgia Cardiovascular cirurgia aberta Órtese implantável
+Fixador dinâmico p/ metálico Cirurgia Plástica/ Crânio cirurgia aberta Órtese implantável
+Fixador externo pélvico metálico/sintético Ortopedia cirurgia aberta Órtese implantável
+Fixador externo mini fixador metálico/sintético Ortopedia cirurgia aberta Órtese implantável
+Fixador externo circular/semi- metálico/sintético Ortopedia/Cirurgia da Mão cirurgia aberta Órtese implantável
+Fixador externocom Sistema de 
+correção angular e/ou rotacional metálico/sintéticoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Fixador externocom Sistema de 
+pequenos fragmentos com Sistema de metálico/sintéticoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Fixador externocom sistema de 
+alongamento metálico/sintéticoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Fixador externo hibrido metálico/sintéticoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Fixador externo linear metálico/sintéticoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Fixador externo para punho metálico/sintéticoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Fixador externo tipo plataforma metálico/sintéticoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Gaiola cervical para artrodese 
+intersomática metálico/sintético Neurocirurgia/Ortopedia cirurgia aberta Órtese implantável
+Gaiola cervical 
+para 
+substituição de corpo 
+vertebral  fixa ou expansível metálico/sintético Neurocirurgia/Ortopedia cirurgia aberta Órtese implantável
+Gaiola para artrodese 
+intersomática lombar ou lombo-sacra metálico/sintético Neurocirurgia/Ortopedia cirurgia aberta Órtese implantável
+Gaiola torácica ou lombo-sacra
+ 
+para substituição de corpo 
+vertebral fixa ou expansível metálico/sintético Neurocirurgia/Ortopedia cirurgia aberta Órtese implantável
+Gancho Gancho laminar metálico Neurocirurgia/Ortopedia cirurgia aberta Órtese implantável
+Gancho Gancho laminar metálico Neurocirurgia/Ortopedia cirurgia aberta Órtese implantável
+Gancho Gancho pedicular metálico Neurocirurgia/Ortopedia cirurgia aberta Órtese implantável
+Gancho com Sistema sulcado para fixação de hastes metálico Neurocirurgia/Ortopedia cirurgia aberta Órtese implantável
+Gerador (marcapasso) unicameral eletrônico Cirurgia Cardiovascularcirurgia aberta ou 
+endovascularÓrtese implantável
+Gerador (marcapasso) bicameral eletrônico Cirurgia Cardiovascularcirurgia aberta ou 
+endovascularÓrtese implantável
+Gerador (marcapasso) tricameral eletrônico Cirurgia Cardiovascularcirurgia aberta ou 
+endovascularÓrtese implantávelconsiderado em Conjunto 
+(gerador + eletrodos)
+Gerador de Estimulos para 
+medula e encéfaloeletrônico Neurocirurgia cirurgia aberta Órtese implantávelconsiderado em Conjunto 
+(gerador + eletrodos)
+Grampo metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Halo craniano halo craniano 
+associado a Dispositivo tipo metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Hastehaste de 
+compressão metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Haste haste de distração metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Haste haste de Ender metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Haste haste de Rush metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Hastehaste femoral de 
+bloqueio cefálico metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Hasteintramedular  
+bloqueada de tíbiametálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Hasteintramedular  
+bloqueada de metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Hasteintramedular  
+flexível para uso metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Hasteintramedular não 
+bloqueadametálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Hasteintramedular 
+retrógradametálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Hasteintramedular tíbio-
+társicametálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Hastepara associação 
+com Parafusos de metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Haste tipo Luque metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Hasteintramedular 
+bloqueada de metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Haste interóssea metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Implante artificial para 
+drenagem de humor aquosoinorgânico Oftalmologia cirurgia aberta Órtese implantável
+Implante auditivo de tronco eletrônico Otorrinolaringologia cirurgia aberta Prótese implantável
+Implante coclear multicanal eletrônico Otorrinolaringologia cirurgia aberta Prótese implantável
+Implante dentário metálico Crânio e Buco Maxilo cirurgia aberta Prótese implantávelsomente o componente 
+implantável da prótese dentária é prótese 
+Implantes para reconstrução 
+ocular, palpebral ou orbitalsintéticoOftalmologia/Crânio Maxilo 
+Facialcirurgia aberta Órtese implantável
+Implantes para reconstrução 
+ocular, palpebral ou orbitalorgânicoOftalmologia/Crânio Maxilo 
+Facialcirurgia aberta Órtese implantável
+Lâmina de silicone para 
+articulação temporo-
+mandibularsintéticaCirurgia Plástica/ Crânio 
+Maxilocirurgia aberta Órtese implantável
+Lente intra-ocularpara correção de 
+afaciainorgânico Oftalmologia cirurgia aberta Prótese implantável
+Lentes para olhos fácicos vários materiais Oftalmologia cirurgia aberta Órtese implantável
+Marcapasso cardíaco unicameral eletrônico Cirurgia Cardiovascularcirurgia aberta ou 
+endovascularÓrtese implantávelconsiderado em Conjunto 
+(gerador + eletrodos)
+Marcapasso cardíaco bicameral eletrônico Cirurgia Cardiovascularcirurgia aberta ou 
+endovascularÓrtese implantávelconsiderado em Conjunto 
+(gerador + eletrodos)
+Marcapasso cardíaco tricameral eletrônico Cirurgia Cardiovascularcirurgia aberta ou 
+endovascularÓrtese implantávelconsiderado em Conjunto 
+(gerador + eletrodos)
+Micro Stent metálico Neurocirurgia endovascular Órtese implantável
+Micromolas de liberação livre metálico Neurocirurgia cirurgia aberta Órtese implantável
+Mini-clips para malformação metálico Neurocirurgia cirurgia aberta Órtese implantável
+Molde laríngeo sintética Cirurgia Torácica endoscópica Órtese implantável
+Órtese auto-expansível de 
+cólonauto-expansível metálica Endoscopia Digestiva endoscópica Órtese implantávelUso após dilatação com 
+balão.
+Órtese auto-expansível de 
+duodenoauto-expansível metálica Endoscopia Digestiva endoscópica Órtese implantávelPaciente portador de 
+doenças proprias do duodeno ou em orgãos vizinhos que comprometam a luz duodenal. Uso após dilata
+ção com balão.
+Órtese auto-expansível de 
+esôfagoauto-expansível metálica Endoscopia Digestiva endoscópica Órtese implantáveluso pós dilatação 
+endoscopica com balão ou tumores ainda possíveis de serem ultrapassados (uso paliativo)
+Órtese auto-expansível de auto-expansível plástica Endoscopia Digestiva endoscópica Órtese implantável
+Órtese auto-expansível de 
+estômagoauto-expansível metálica Endoscopia Digestiva endoscópica Órtese implantávelUtilizada em doen
+ças 
+proprias do estomago que provoquem subestenose de sua luz. Uso após dilata
+ção com balão ou em  
+lesões ainda possíveis de serem ultrapassados (uso 
+paliativo)
+Órtese auto-expansível de 
+intestino delgadoauto-expansível metálica Endoscopia Digestiva endoscópica Órtese implantávelUtilizada em paciente que 
+apresenta estenoses da luz da alça intestinal decorrentes de doenças proprias, e compressões extrinsecas.
+Órtese auto-expansível de reto auto-expansível metálica Endoscopia Digestiva endoscópica Órtese implantávelTratamento paliativo de 
+lesões estenosantes.
+Órtese auto-expansível de sintética Urologia endoscópica Órtese implantável "stent"uretral
+Órtese auto-ex pansível de vias  
+bilio-pancreáticasauto-expansível 
+vários tamanhossintética Endoscopia Digestiva endoscópica Órtese implantáveluso temporário na maior 
+das vezes
+Órtese auto-ex pansível de vias  
+bilio-pancreáticasauto-expansível metálica Endoscopia Digestiva endoscópica Órtese implantável
+Órtese brônquicareta não 
+expansívelsintéticaCirurgia Torácica/ 
+Pneumologiacirurgia aberta ou 
+endoscópicaÓrtese implantável
+Órtese brônquica reta expansível sintéticaCirurgia Torácica/ 
+Pneumologiacirurgia aberta ou 
+endoscópicaÓrtese implantável
+rígida sintética Cirurgia Torácica cirurgia aberta Órtese implantável
+flexível sintética Cirurgia Torácica cirurgia aberta Órtese implantávelrígida sintética Cirurgia Torácica cirurgia aberta Órtese implantávelflexível sintética Cirurgia Torácica cirurgia aberta Órtese implantável
+Órtese traqueal reta expansível sintéticaCirurgia Torácica/ 
+Pneumologiacirurgia aberta ou 
+endoscópicaÓrtese implantável
+Órtese traqueal em T sintéticaCirurgia Torácica/ 
+Pneumologiacirurgia aberta ou 
+endoscópicaÓrtese implantável
+Órtese traqueal em Y dinâmica sintéticaCirurgia Torácica/ 
+Pneumologiacirurgia aberta ou 
+endoscópicaÓrtese implantável
+Órtese traquealem T no ramo 
+proximal e em Y no  sintéticaCirurgia Torácica/ 
+Pneumologiacirurgia aberta ou 
+endoscópicaÓrtese implantável
+Parafusomini-Parafuso de 
+auto-compressão metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+ParafusoParafuso da Placa 
+toraco-lombo-metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+ParafusoParafuso da Placa 
+cervical/occipito-cervical metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Parafuso Parafuso canulado metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+ParafusoParafuso canulado 
+auto-roscante 
+para 
+odontóide metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+ParafusoParafuso canulado 
+mini metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Parafuso Parafuso cortical metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantávelÓrtese de parede torácica para 
+pectus excavatumÓrtese de parede torácica para 
+pectus carinatum
+ParafusoParafuso de 
+interferência metálico/absorvívelOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+ParafusoParafuso pedicular 
+mono-axial metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+ParafusoParafuso pedicular 
+poli-axial metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Parafuso Parafuso es ponjoso metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Parafuso Parafuso maleolar metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Parafuso absorvívelOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Parafuso bloqueado absorvívelOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Parafuso Para  C1-C2 metálico Neurocirurgia/Ortopedia cirurgia aberta Órtese implantável
+Parafuso para fixação do metálico Neurocirurgia/Ortopedia cirurgia aberta Órtese implantável
+Parafusos para fixação no metálico Neurocirurgia/Ortopedia cirurgia aberta Órtese implantável
+Parafusos translaminares metálico Neurocirurgia/Ortopedia cirurgia aberta Órtese implantável
+Patch cardiovascular vários tamanhos orgânicoCirurgia Cardiovascular/ 
+Cirurgia Vascularcirurgia aberta Órtese implantávelEx: patch de pericárdio 
+bovino
+Patch cardiovascular vários tamanhos sintéticaCirurgia Cardiovascular/ 
+Cirurgia Vascularcirurgia aberta Órtese implantável
+Patch cardiovascular vários tamanhos sintética/biológicaCirurgia Cardiovascular/ 
+Cirurgia Vascularcirurgia aberta Órtese implantável
+Peso palpebral metálicoCirurgia 
+Plástica/Otorrinolaringologia/Oftalmologiacirurgia aberta Órtese implantávelpara correção do 
+fechamento palpebral na paralisia facial
+Pino pino de Knowles metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Pino pino de Shantz metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Placacircular de 
+artrodese medio-metal ou radio 
+transparenteOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Placareta e angulada de 
+artrodese radio-metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Placa Placa angulada metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Placa Placa calço metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Placa Placa cervical metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+PlacaPlaca occipito-
+cervical metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Placa Placa cobra metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+PlacaPlaca com Parafuso  
+deslizante metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Placa Placa condilea metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+PlacaPlaca de 
+compressão metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+PlacaPlaca de 
+reconstrução de metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+PlacaPlaca de suporte 
+tibial metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Placa Placa em L metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Placa Placa em T metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Placa Placa em trevo metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+PlacaPlaca para 
+calcâneo metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Placa Placa ponte metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Placa Placa semitubular metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Placa Placa terço tubular metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+PlacaPlaca toraco-lombo -
+sacra metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Placa bloqueada metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Placa cervical anterior e seus metálico Neurocirurgia/Ortopedia cirurgia aberta Órtese implantável
+Placa para fixa ção craniana ou  
+crânio maxilo-facial e componentes (miniPlaca e metálica ou 
+bioabsorvívelNeurocirurgia/Crânio Buco 
+Maxilocirurgia aberta Órtese implantável
+Placa para laminoplastia 
+cervical e seus componentesmetálico Neurocirurgia/Ortopedia cirurgia aberta Órtese implantável
+Placa sacral posterior metálico Neurocirurgia/Ortopedia cirurgia aberta Órtese implantável
+Placa torácica e/ou lombo-sacra anterior e seus metálico Neurocirurgia/Ortopedia cirurgia aberta Órtese implantável
+Porca metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Prego Steinman metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Prótese de articulação metálico Cirurgia Plástica/ Crânio não implantável Prótese implantável
+Prótese de cabeça do rádio siliconeOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Prótese implantável
+Prótese de cabeça do rádio metálicoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Prótese implantável
+Prótese de cabeça do rádio pirocarbonoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Prótese implantável
+Prótese de cadeia ossicular sintética ou metálica Otorrinolaringologia cirurgia aberta Prótese implantável
+Prótese de cotovelo metálica/sintéticaOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Prótese implantávelcomponente ulnar, umeral 
+e radial
+Prótese de disco cervical metálico ou inorgânico Neurocirurgia/Ortopedia cirurgia aberta Prótese implantável
+Prótese de disco lombar metálico ou inorgânico Neurocirurgia/Ortopedia cirurgia aberta Prótese implantável
+Prótese de joelho unicompartimental metálica/sintéticaOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Prótese implantávelcomponente femoral, 
+tibial, patelar e troclear
+Prótese de joelho total metálica/sintéticaOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Prótese implantávelcomponente femoral, tibial  
+metálico, tibial de 
+polietileno, patelar, haste femoral e tibial, Parafuso
+Prótese de joelho revisão metálica/sintéticaOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Prótese implantávelcom
+ponente femoral, tibial  
+metálico, tibial de 
+polietileno, patelar, haste femoral e tibial, aumento femoral e tibial, Parafuso
+Prótese de ombro convencional metálica/sintéticaOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Prótese implantávelcomponente cefálico, 
+glenoidal, umeral, restritor  
+de cimento
+Prótese de ombro reversa metálica/sintéticaOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Prótese implantávelcomponente glenoidal, 
+umeral, restritor de 
+Prótese de punho metálica/sintéticaOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Prótese implantávelcomponente radial e 
+metacarpal, junção
+Prótese de quadril primária metálica/sintéticaOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Prótese implantávelcomponente femoral, 
+acetabular metálico e polietileno, cefálico, centralizador de componente femoral, restritor de cimento, Dispositivo antiprotusão, Parafuso
+Prótese de quadril parcial metálica/sintéticaOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Prótese implantávelcomponente femoral e 
+cefálico, cabeça bipolar, centralizador de componente femoral, restritor de cimento
+Prótese de quadril revisão metálica/sintéticaOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Prótese implantávelcomponente femoral, 
+acetabular metálico e polietileno, cefálico, centralizador de componente femoral, restritor de cimento, Dispositivo antiprotusão, Parafuso,  tela de reconstrução femoral e acetabular
+Prótese de quadril resurfacing metálica/sintéticaOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Prótese implantávelcomponente femoral, 
+cefálico e acetabular
+Prótese de silicone mamáriasintética, preenchida 
+com gel de siliconeCirurgia Plástica/Cirurgia 
+Torácicacirurgia aberta Prótese implantávelpode ser usada também 
+para plumbagem pleural em cirurgia torácica
+Prótese de silicone glútea sintética Cirurgia Plástica cirurgia aberta Prótese implantável
+Prótese de silicone panturrilha sintética Cirurgia Plástica cirurgia aberta Prótese implantável
+Prótese interfalangeana siliconeOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Prótese implantável
+Prótese mentoniana sintética Cirurgia Plástica cirurgia aberta Prótese implantável
+Prótese metacarpo-falangeana metálicaOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Prótese implantável
+Prótese metacarpo-falangeana pirocarbonoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Prótese implantável
+Prótese metacarpo-falangeana siliconeOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Prótese implantável
+Prótese moldável para 
+reconstrução de parede moldável metálica/sintética Cirurgia Torácica cirurgia aberta Órtese implantável
+Prótese não convencionaldistal membro 
+superiormetálica/sintéticaOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Prótese implantável
+Prótese não convencionaldistal membro 
+inferiormetálica/sintéticaOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Prótese implantável
+Prótese não convencionalproximal membro 
+superiormetálica/sintéticaOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Prótese implantável
+Prótese não convencionalproximal membro 
+inferiormetálica/sintéticaOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Prótese implantável
+Prótese não convencional biarticulada metálica/sintéticaOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Prótese implantável
+Prótese não convencional diafisária metálicaOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Prótese implantável
+Prótese para estapedectomia sintética Otorrinolaringologia cirurgia aberta Órtese implantável
+Prótese peniana inflável de 2 Urologia cirurgia aberta Prótese implantável
+Prótese peniana inflável 3 volumes Urologia cirurgia aberta Prótese implantável
+Prótese peniana não inflável semi-rígida Urologia cirurgia aberta Prótese implantável
+Prótese testicular sintética Urologia cirurgia aberta Prótese implantável
+Prótese trapézio-metacarpiana metálicaOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Prótese implantável
+Prótese trapézio-metacarpiana siliconeOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Prótese implantável
+Prótese trapézio-metacarpiana carbonoOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Prótese implantável
+Prótese traqueo-esofágica sintético Otorrinolaringologia cirurgia aberta Prótese implantável
+Prótese ulna distal pirocarbono Ortopedia cirurgia aberta Prótese implantável
+Prótese valvar cardíaca com suporte biológica Cirurgia Cardiovascular cirurgia aberta Prótese implantável
+Prótese valvar cardíaca sem suporte biológica Cirurgia Cardiovascular cirurgia aberta Prótese implantável
+Prótese valvar cardíacacom suporte 
+parcialbiológica Cirurgia Cardiovascular cirurgia aberta Prótese implantável
+Prótese valvar cardíacauni ou duplo 
+folhetometálica Cirurgia Cardiovascular cirurgia aberta Prótese implantável
+Prótese valvar cardíaca expansível biológica Cirurgia 
+Cardiovascular/Hemodinâmiccirurgia aberta ou 
+endovascularPrótese implantávelauto-expansível ou 
+expansível por balão
+Retângulo tipo Hartshill metálico Neurocirurgia /Ortopedia cirurgia aberta Órtese implantável
+Sistema de fixação cervical 
+posterior e seus componentes com Barras 
+longitudinais ou Placametálica Neurocirurgia /Ortopedia cirurgia aberta Órtese implantável
+Sistema de fixação com 
+Parafusos 
+pediculares torácico  
+e/ou lombo-sacro e seus componentes metálica Neurocirurgia /Ortopediacirurgia aberta ou 
+percutâneaÓrtese implantável
+Sistema de fixação crânio-
+cervical e seus componentesmetálica Neurocirurgia /Ortopedia cirurgia aberta Órtese implantável
+Sistema de fixação dinâmica 
+pedicular lombo-sacra e seus componentes metálica Neurocirurgia /Ortopedia cirurgia aberta Órtese implantável
+Sistema de fixação occipito- metálica Neurocirurgia /Ortopedia cirurgia aberta Órtese implantável
+Sistema de fixa
+ção transversal  
+de titânio metálica Neurocirurgia /Ortopedia cirurgia aberta Órtese implantável
+Sistema de micro Placa e 
+micro ParafusosabsorvívelOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Sistema de micro Placa e 
+micro Parafusosvários tipos, 
+formatos e metálicaOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Sistema de miniPlaca e 
+Parafusosvários tipos, 
+formatos e absorvívelOrtopedia/Cirurgia da 
+Mão/Cirurgia Plásticacirurgia aberta Órtese implantável
+Sistema de Parafusos para 
+fixação transarticular C1-C2 metálica Neurocirurgia /Ortopedia cirurgia aberta Órtese implantável
+Stent coronariano farmacológico metálico Hemodinâmica endovascular Órtese implantável
+Stent coronariano metálico metálico Hemodinâmica endovascular Órtese implantável
+Stent coronariano revestido metálico/sintético Hemodinâmica endovascular Prótese implantável
+Stent vasculartroncos supra-
+aórticosmetálicoHemodinâmica, Cirurgia 
+Vascular, Radiologia 
+Intervencionistaendovascular Órtese implantável
+Stent vascular aorta metálicoHemodinâmica, Cirurgia 
+Vascular, Radiologia endovascular Órtese implantável
+Stent vascular artéria pulmonar metálicoHemodinâmica, Cirurgia 
+Vascular, Radiologia endovascular Órtese implantável
+Stent vascular artérias viscerais metálicoHemodinâmica, Cirurgia 
+Vascular, Radiologia endovascular Órtese implantável
+Stent vascular artérias ilíacas metálicoHemodinâmica, Cirurgia 
+Vascular, Radiologia endovascular Órtese implantável
+Stent vascularartérias membros 
+inferiores e metálicoHemodinâmica, Cirurgia 
+Vascular, Radiologia endovascular Órtese implantável
+Stent vascular aorta metálico/sintéticoHemodinâmica, Cirurgia 
+Vascular, Radiologia endovascular prótese implantável Considerar Endoprótese
+Stent vascular artéria pulmonar metálico/sintéticoHemodinâmica, Cirurgia 
+Vascular, Radiologia endovascular Prótese implantável Considerar Endoprótese
+Stent vascular artérias viscerais metálico/sintéticoHemodinâmica, Cirurgia 
+Vascular, Radiologia endovascular Prótese implantável Considerar Endoprótese
+Stent vascular artérias ilíacas metálico/sintéticoHemodinâmica, Cirurgia 
+Vascular, Radiologia endovascular Prótese implantável Considerar Endoprótese
+Stent vascular vários tamanhos metálico/sintéticoHemodinâmica, Cirurgia 
+Vascular, Radiologia Intervencionista, endovascular Prótese implantável Considerar Endoprótese
+Suspensor palpebral vários tamanhos biológica/sintética Cirurgia Plástica cirurgia aberta Órtese implantávelpara correção de ptose 
+palpebral severa
+Tela inorgânica e sintéticaCirurgia Torácica/ Cirurgia 
+Geral/Cirurgia Plástica/Mastologiacirurgia aberta Órtese implantável polipropileno (tela Marlex)
+Tela sintética / biológica Cirurgia Torácica/Cirurgia 
+Geral/Cirurgia Digestiva/Cirurgia Plásticacirurgia aberta Órtese implantável
+Tela absorvívelCirurgia Torácica/Cirurgia 
+Geral/Cirurgia Plásticacirurgia aberta Órtese implantável vicryl 
+Telapara correção de 
+incontinência urinária femininasintética Urologiacirurgia aberta ou 
+percutâneaÓrtese implantável
+Telapara correção de 
+incontinência urinária masculinasintética Urologiacirurgia aberta ou 
+percutâneaÓrtese implantável
+Tubo de ventilação para 
+ouvido médiotemporário sintético Otorrinolaringologia cirurgia aberta Órtese implantável
+Tubo de ventilação para 
+ouvido médiopermanente sintético Otorrinolaringologia cirurgia aberta Órtese implantável
+Válvula brônquica para 
+tratamento de fuga aérea e sintéticaCirurgia Torácica/ 
+Pneumologiacirurgia aberta ou 
+endoscópicaÓrtese implantável
