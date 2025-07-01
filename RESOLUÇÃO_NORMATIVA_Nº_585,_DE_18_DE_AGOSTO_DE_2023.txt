@@ -1,0 +1,157 @@
+ANS - LEGISLAÇÃO
+RESOLUÇÃO NORMATIVA ANS Nº 585, DE 18 DE AGOSTO DE 2023
+(Republicado no DOU nº 163, de 25/08/2023, págs.147 a 149)
+Dispõe sobre os critérios para as alterações na rede assistencial hospitalar no que se refere à substituição de entidade hospitalar e redimensionamento de rede por redução; Altera a RN nº 489, de 29 de março de 2022, que dispõe sobre a aplicação de penalidades para as infrações à legislação dos planos privados de assistência à saúde, que passa a vigorar acrescida do art. 113-A; Altera a RN nº 438, de 3 de dezembro de 2018, que dispõe sobre a regulamentação da portabilidade de carências para beneficiários de planos privados de assistência à saúde, que passa a vigorar acrescida do Art. 8º A.
+A Diretoria Colegiada da Agência Nacional de Saúde Suplementar - ANS, em vista do que dispõem os artigos 1° e 3°, incisos IV, XXIV e XXV do artigo 4° e inciso II do artigo 10 da Lei nº 9.961, de 28 de janeiro de 2000; e o art. 17 da Lei nº 9.656, de 3 de junho de 1998, em reunião realizada em 14 de agosto de 2023, adotou a seguinte Resolução Normativa e eu, Diretor-Presidente, determino a sua publicação.
+CAPÍTULO I
+DAS DISPOSIÇÕES PRELIMINARES
+Art. 1º Esta Resolução dispõe sobre os critérios para as alterações na rede assistencial hospitalar no que se refere à substituição de entidade hospitalar e redimensionamento de rede por redução, regulamentando o disposto no artigo 17 da Lei nº 9.656, de 1998.
+Parágrafo único. As alterações na rede assistencial hospitalar referidas no caput configuram alterações no registro de produto.
+Seção I
+Dos Conceitos
+Art. 2º Para fins desta Resolução, considera-se:
+I - Rede Assistencial - conjunto de estabelecimentos de saúde, equipamentos e recursos humanos, próprios, contratados, referenciados, credenciados ou cooperados de uma operadora de plano de assistência à saúde para oferecer cuidado aos beneficiários em todos os níveis de atenção à saúde, considerando ações de promoção, prevenção, diagnóstico, tratamento e reabilitação, de modo a atender às necessidades de saúde dessa população;
+II - Entidade Hospitalar - estabelecimento de saúde dotado de internação, meios diagnósticos e terapêuticos, com o objetivo de prestar assistência médica curativa e de reabilitação, podendo dispor de atividades de prevenção, assistência ambulatorial, atendimento de urgência/emergência e de ensino/pesquisa;
+III - Serviços hospitalares - compreendem, no âmbito das internações hospitalares, as clínicas básicas e especializadas, bem como centro de terapia intensiva, ou similar, e atendimento de urgência e emergência, reconhecidos pelo Conselho Federal de Medicina. Para fins deste normativo, serão considerados serviços hospitalares aqueles listados no §1º do art. 7º desta Resolução Normativa;
+IV - Substituição de Entidade Hospitalar - troca de uma unidade hospitalar por outra(s) equivalente(s);
+V - Prestador substituto - prestador de serviços de atenção à saúde indicado pela operadora para substituir a entidade hospitalar a ser excluída;
+VI - Redimensionamento da Rede Hospitalar por Redução - supressão de estabelecimento hospitalar da rede do produto;
+VII - Suspensão Temporária do Atendimento Hospitalar - suspensão das atividades de uma entidade hospitalar, por determinado período, podendo ser motivada pela realização de obra ou reforma no espaço físico do prestador ou em decorrência de intervenção pública, sanitária ou fiscal; e
+VIII - Curva ABC: também chamada de análise de Pareto ou regra 80/20, é um método de categorização cujo objetivo é determinar quais são os itens mais importantes de um conjunto de dados. Na regra de alteração de rede hospitalar, a metodologia auxiliará no conhecimento do percentual de participação de cada prestador, por plano, no total das internações ou dos atendimentos de urgência e emergência da Região de Saúde, dependendo da exclusão pretendida.
+Seção II
+Da Responsabilidade da Operadora
+Art. 3º A operadora, para garantir a assistência oferecida nos produtos, deverá formar uma rede de prestadores, seja própria ou contratualizada, capaz de atender aos beneficiários nos prazos regulamentares definidos pela ANS respeitando o que foi contratado.
+Art. 4º Todos os prestadores de serviços de saúde da rede assistencial da operadora de planos de assistência à saúde (entidades hospitalares, consultórios, clínicas ambulatoriais e Serviços de Apoio Diagnóstico e Terapêutico - SADT) devem estar informados no Cadastro de Estabelecimentos de Saúde da ANS, do Sistema de Registro de Planos de Saúde - RPS.
+Parágrafo único. No caso de redimensionamento por redução ou substituição da entidade hospitalar, caso a operadora mantenha o contrato com o estabelecimento para prestação de serviços não hospitalares, deverá providenciar a reinclusão do prestador no Cadastro de Estabelecimentos de Saúde na ANS com seus dados atualizados.
+Art. 5º Nos casos de substituição de entidade hospitalar e de redimensionamento de rede por redução, a operadora de planos de assistência à saúde deverá observar as seguintes diretrizes:
+I - garantir aos beneficiários a manutenção do acesso aos serviços ou procedimentos definidos no Rol de Procedimentos e Eventos em Saúde da ANS, respeitando-se os casos de Diretrizes de Utilização – DUT, carências e Cobertura Parcial Temporária - CPT, quando houver, para atendimento integral das coberturas previstas na Lei nº 9.656, de 1998, nos prazos definidos na Resolução Normativa ANS nº 566, de 29 de dezembro de 2022, ou norma que vier a sucedê-la;
+II - garantir aos seus beneficiários uma comunicação efetiva quanto à alteração das entidades hospitalares, nos termos do disposto na presente Resolução Normativa.
+CAPÍTULO II
+DA ALTERAÇÃO NA REDE ASSISTENCIAL HOSPITALAR
+Seção I
+Da Substituição de entidades hospitalares
+Art. 6º Às operadoras de planos de assistência à saúde é permitido realizar substituição de entidades hospitalares desde que sejam equivalentes e mediante comunicação aos consumidores e à ANS com 30 (trinta) dias de antecedência, nos termos do art. 17 da Lei nº 9.656, de 3 de junho de 1998.
+Da Análise de Equivalência de Entidades Hospitalares na Substituição
+Art. 7º A avaliação de equivalência de entidades hospitalares para fins de substituição, em atendimento ao artigo 17 da Lei nº 9.656, de 1998, será realizada a partir da comparação dos serviços hospitalares e do atendimento de urgência e emergência, utilizados nos últimos 12 (doze) meses no prestador a ser substituído, pelos beneficiários dos produtos a serem alterados.
+§1º Para fins da avaliação que trata o caput deste artigo será considerada a utilização em cada uma das seguintes categorias de serviços hospitalares: Internação Psiquiátrica, Internação Obstétrica, Internação Pediátrica, Internação Clínica, Internação Cirúrgica, Internação em UTI Neonatal, Internação em UTI Pediátrica, Internação em UTI Adulto, Atendimento de Urgência e Emergência Adulto e Atendimento de Urgência e Emergência Pediátrico. As categorias de serviços em que forem observadas utilização deverão ser substituídas.
+§2º A utilização de serviços de saúde nas categorias descritas no §1º será realizada com base nos dados do Padrão de Troca de Informações da Saúde Suplementar (TISS) enviados pelas operadoras à ANS.
+§3º O prestador substituto deverá estar localizado no mesmo município da entidade hospitalar a ser excluída.
+I - em caso de indisponibilidade ou inexistência de prestador no mesmo município, deverá ser indicado prestador em município limítrofe a este;
+II - em caso de indisponibilidade ou inexistência de prestador nos municípios limítrofes, deverá ser indicado prestador na Região de Saúde à qual faz parte o município.
+§4º Além de cumprir o disposto nos §§ 1º e 3º, caso o prestador a ser excluído possua um dos seguintes atributos de qualificação, ordenados de acordo com a seguinte hierarquia: Acreditação segundo critérios estabelecidos pelo Programa de Qualificação dos Prestadores de Serviços na Saúde Suplementar (Qualiss); (ii) Outras Certificações, com reconhecimento pela International Society for Quality in Health Care (ISQua); ou (iii) Segurança do Paciente, a substituição deste prestador deverá ser feita por outro prestador que possua atributo de qualificação do mesmo nível ou superior, considerando a hierarquia apresentada.
+I - Na impossibilidade de contratação de prestador substituto com atributo de qualificação do mesmo nível ou superior, deverá ser indicado prestador com atributo de qualificação inferior, respeitando-se a hierarquização apresentada.
+II - Na impossibilidade de contratação de prestador substituto com atributo de qualificação inferior, respeitando a hierarquização apresentada, a operadora poderá indicar prestador de serviço sem atributo de qualificação.
+§5º As alternativas de localidade para o prestador substituto, nos casos de indisponibilidade ou inexistência de prestador no mesmo município do estabelecimento a ser excluído, apresentadas no §3º deste artigo, só poderão ser utilizadas depois de serem observadas as regras dispostas no §4º.
+Art. 8º Será possibilitada a contratação de outro(s) prestador(es), hospitalares ou não-hospitalares, de forma complementar, para fins de substituição de serviços hospitalares que não constem no prestador substituto.
+Art. 9º A operadora poderá indicar, como prestador substituto, estabelecimento de saúde já pertencente à rede de atendimento do produto, somente nos casos em que:
+I - tenha havido aumento da capacidade de atendimento do prestador, através da ampliação dos seus serviços/leitos ou da sua instalação física, nos últimos 90 dias, correspondente aos serviços que estão sendo excluídos, desde que comprovado; ou
+II - tenha sido incluído na rede do produto, no máximo, até 90 (noventa) dias antes da data da exclusão do prestador a ser substituído.
+Seção II
+Do Redimensionamento de Rede Hospitalar por Redução
+Art. 10. Às operadoras de planos de assistência à saúde é permitido realizar redimensionamento de rede hospitalar por redução, nos termos da Lei nº 9.656, de 1998, desde que:
+I - tenha obtido autorização expressa da ANS;
+II - o impacto sobre a massa assistida não ultrapasse os limites definidos pela ANS; e
+III - os beneficiários sejam comunicados de forma efetiva, nos termos do disposto na presente Resolução Normativa.
+Art. 11. O redimensionamento de rede hospitalar por redução poderá ser motivado por:
+I – interesse da própria operadora de planos de assistência à saúde ou da entidade hospitalar;
+II - rescisão contratual entre a entidade hospitalar e a operadora intermediária, nos casos de contratação indireta; ou
+III - encerramento das atividades da entidade hospitalar.
+Art. 12. Será considerado encerramento das atividades da entidade hospitalar quando:
+I - ocorrer o fechamento total do estabelecimento;
+II - forem extintas todas as atividades hospitalares contratadas pela operadora; e
+III - a prestação de todas as atividades hospitalares passar a ser exclusiva para o Sistema Único de Saúde – SUS.
+Parágrafo único. A operadora poderá apresentar, para fins de comprovação do encerramento das atividades da entidade hospitalar, os seguintes documentos, não excetuando outros que comprovem a referida motivação:
+a) declaração de gestor ou órgão público local competente;
+b) declaração de responsável pela entidade hospitalar;
+c) comprovante da situação cadastral do estabelecimento no CNES
+d) notícias publicadas em meios de comunicação de massa;
+e) comprovante da situação cadastral do estabelecimento na Receita Federal; ou
+f) ata notarial.
+Subseção I
+Da Análise do Redimensionamento de Rede Hospitalar por Redução
+Art. 13. A autorização para redimensionamento de rede hospitalar por redução será concedida desde que o impacto sobre a massa assistida não ultrapasse os limites definidos pela ANS.
+§1º Para fins desta Resolução Normativa, considera-se a ocorrência de impacto sobre a massa assistida quando o redimensionamento envolver entidades hospitalares responsáveis por até 80% das internações na sua região de saúde, nos últimos 12 (doze) meses, para os planos objetos do redimensionamento (Curva ABC).
+§2º A metodologia de avaliação utilizará os dados do Padrão de Troca de Informações da Saúde Suplementar (TISS) enviados pelas operadoras à ANS e será objeto de Instrução Normativa da ANS.
+§2º A metodologia de avaliação utilizará os dados do Padrão de Troca de Informações da Saúde Suplementar (TISS) enviados pelas operadoras à ANS e será detalhada no Anexo II deste normativo. (
+Redação dada pela RN nº 620, de 25/11/2024
+)
+§3º Para fins de delimitação do quantitativo de prestadores, responsáveis por até 80% das internações, na Região de Saúde, os prestadores serão ordenados em ordem decrescente de número de internações.
+§4º Caso o prestador a ser excluído faça parte do conjunto de prestadores responsáveis por até 80% das internações na sua região de saúde, entretanto, possua, individualmente, menos de 5% destas internações, tal prestador poderá ser descredenciado considerando que sua exclusão não resultará em impacto na massa assistida.
+§5º Não se aplicará o critério disposto no caput deste artigo quando a solicitação de exclusão de prestador hospitalar for motivada por encerramento de atividades da entidade hospitalar ou por rescisão contratual entre a entidade hospitalar e a operadora intermediária, nos casos de contratação indireta. Nestes casos, o redimensionamento da rede hospitalar será autorizado desde que comprovada a motivação do pedido.
+§6º Caso a exclusão do prestador hospitalar ocasione impacto sobre a massa assistida, conforme limites definidos pela ANS, a operadora poderá substituir o referido prestador, por outro equivalente, seguindo o disposto no art. 7º deste normativo.
+Seção III
+Da Exclusão Parcial de Serviços Hospitalares Contratados
+Art. 14. A exclusão parcial de serviços de internações hospitalares, contratados em entidades hospitalares cujo redimensionamento por redução ocasione impacto à massa assistida, conforme estabelecido nos §1º, §2º e §3º do art. 13, somente poderá ocorrer mediante substituição de cada serviço hospitalar a ser excluído, devendo ser observadas as regras de localização e utilização estabelecidas no art. 7º desta Resolução.
+§1º Considera-se exclusão parcial de serviços de internações hospitalares a retirada de quaisquer das categorias de internações hospitalares previstas no §1º do art. 7º.
+§2º Não se aplicará a avaliação de impacto à massa assistida quando a exclusão parcial de serviços de internações hospitalares for motivada pela extinção do serviço na entidade hospitalar ou pela exclusão do serviço na operadora intermediária, nos casos de contratação indireta.
+Seção IV
+Da Exclusão de Serviços de Urgência e Emergência
+Art. 15. A exclusão de serviços de urgência e emergência, contratados em entidades hospitalares, que ocasione impacto à massa assistida, somente poderá ocorrer mediante substituição deste serviço em outro estabelecimento de saúde, devendo ser observadas as regras de localização e utilização estabelecidas no art. 7º desta Resolução.
+§1º Para fins de avaliação do impacto na massa assistida nas exclusões de serviços de urgência e emergência deverá ser aplicada a metodologia disposta nos §1º, §2º e §3º do art. 13 utilizando-se os atendimentos de urgência e emergência de cada prestador.
+§2º Não se aplicará a avaliação de impacto à massa assistida quando a exclusão do serviço de urgência e emergência for motivada pela extinção do serviço na entidade hospitalar ou pela exclusão do serviço na operadora intermediária, nos casos de contratação indireta.
+Seção V
+Da Suspensão Temporária do Atendimento no Prestador Hospitalar
+Art. 16. A operadora de planos de assistência à saúde não está obrigada a solicitar redimensionamento de rede por redução ou comunicar a substituição à ANS, nos casos de suspensão temporária definidos no art. 2º, inciso VII desta Resolução, desde que o prazo de suspensão não exceda 180 (cento e oitenta) dias.
+Parágrafo único. Na hipótese de suspensão temporária do atendimento hospitalar na entidade hospitalar, a operadora de planos de assistência à saúde deverá:
+I - continuar a oferecer a plenitude da cobertura contratada, de acordo com o Rol de Procedimentos e Eventos em Saúde vigente publicado pela ANS, observando, ainda, o que dispõe a Resolução Normativa ANS nº 566, de 29 de dezembro de 2022, ou norma que vier a sucedê-la;
+II - comunicar seus beneficiários sobre a suspensão temporária dos serviços na entidade hospitalar, conforme disposto no capítulo IV desta Resolução; e
+III - manter comprovação da suspensão temporária do atendimento hospitalar na entidade hospitalar, para fins de eventual fiscalização da ANS.
+Art. 17. Caso a operadora de planos de assistência à saúde opte por solicitar substituição de entidade hospitalar ou redimensionamento de rede por redução, nos casos de suspensão temporária do atendimento hospitalar no prestador, deverá obedecer às regras estabelecidas nesta Resolução Normativa.
+Art. 18. Se no decorrer da suspensão temporária do atendimento ocorrer o encerramento das atividades da entidade hospitalar, em qualquer dos casos dispostos no artigo 12 desta Resolução, a operadora de planos de assistência à saúde fica obrigada a providenciar a substituição de entidade hospitalar ou o redimensionamento de rede por redução.
+CAPÍTULO III
+DO DIREITO À PORTABILIDADE EM RAZÃO DA ENTIDADE HOSPITALAR DESCREDENCIADA
+Art. 19. É facultada ao beneficiário a portabilidade no caso de descredenciamento de entidade hospitalar, por redimensionamento por redução ou substituição, bem como no caso de retirada do serviço de urgência e emergência do prestador hospitalar, ocorrido no município de residência do beneficiário ou no município de contratação do plano, independente do prazo de permanência no produto e da faixa de preço.
+Parágrafo único. No caso de descredenciamento de entidade hospitalar por redimensionamento por redução ou substituição, bem como no caso de retirada do serviço de urgência e emergência do prestador hospitalar, ocorrido na forma do caput deste artigo, o beneficiário terá 180 (cento e oitenta) dias, contados da data do descredenciamento, para solicitar a portabilidade por motivo de alteração de rede credenciada, se assim desejar.
+CAPÍTULO IV
+DA COMUNICAÇÃO DE ALTERAÇÕES NA REDE ASSISTENCIAL HOSPITALAR
+Art. 20. O Portal Corporativo e a Central de Atendimento das operadoras devem manter atualizadas as informações sobre as alterações ocorridas na rede assistencial hospitalar para consulta pelos beneficiários.
+§1º O Portal Corporativo deverá informar, em espaço específico, todos os redimensionamentos por redução, substituições, exclusões parciais de serviços hospitalares e exclusões de serviços de urgência e emergência a serem implementadas com 30 (trinta) dias de antecedência, contados do término da prestação de serviço, e deverá permanecer acessível por 180 (cento e oitenta) dias, sem prejuízo da comunicação individualizada, quando couber.
+§2º Excetuam-se desse prazo de comunicação de 30 (trinta) dias de antecedência os redimensionamentos por redução motivados:
+I – pela rescisão contratual entre a entidade hospitalar e a operadora intermediária, nos casos de contratação indireta;
+II – pelo encerramento das atividades da entidade hospitalar;
+III – pela rescisão por fraude ou infração das normas sanitárias e fiscais em vigor, conforme estabelecido na parte final do §1º do artigo 17 da Lei nº 9.656/98; ou
+IV – pela impossibilidade de cumprimento deste prazo, desde que devidamente comprovado.
+§3º No caso de suspensão temporária dos serviços na entidade hospitalar, a operadora deverá comunicar seus beneficiários sobre o período estimado de interrupção, indicando as alternativas disponíveis na rede para prestação do atendimento.
+Art. 21. Deverão ser comunicados de forma individualizada ao beneficiário titular do plano ou ao seu responsável legal, os redimensionamentos de rede por redução, as substituições e as exclusões de serviços de urgência e emergência ocorridos no município de residência do beneficiário.
+§1º Nos casos de contratos coletivos, a comunicação poderá ser realizada por meio da pessoa jurídica contratante, desde que a operadora possa comprovar a ciência individualizada de cada beneficiário titular do plano ou de seu responsável legal, quando necessário.
+§2º Os meios de comunicação individualizada, dispostos no caput deste artigo, estão detalhados no Anexo desta Resolução Normativa.
+§2º Os meios de comunicação individualizada, dispostos no caput deste artigo, estão detalhados no Anexo I desta Resolução Normativa. (
+Redação dada pela RN nº 620, de 25/11/2024
+)
+Art. 22. As formas de comunicação de que trata esta seção não exime a operadora de atender às disposições da Resolução Normativa ANS nº 486, de 29 de março de 2022, ou norma que vier a sucedê-la.
+CAPÍTULO V
+DAS DISPOSIÇÕES FINAIS
+Art. 23. As informações prestadas pela operadora quando da solicitação de alteração de rede hospitalar subsidiarão ações de monitoramento do acesso e da estrutura da rede assistencial.
+Parágrafo único. A documentação comprobatória referente às alterações de rede hospitalar deverá permanecer no domínio da operadora de planos de assistência à saúde, devendo ser encaminhada à ANS sempre que solicitada.
+Art. 24. A operadora de planos de assistência à saúde fica sujeita à aplicação das medidas administrativas e penalidades previstas na legislação em vigor caso sejam identificadas irregularidades nas alterações de rede hospitalar.
+Art. 25. Caso sejam identificadas incorreções ou omissões nas solicitações de alteração de rede hospitalar, a ANS poderá, sem prejuízo das medidas previstas nessa resolução normativa, se valer de outras medidas administrativas.
+Art. 26. A Resolução Normativa ANS nº 489, de 29 de março de 2022, ou norma que vier a sucedê-la, que dispõe sobre a aplicação de penalidades para as infrações à legislação dos planos privados de assistência à saúde, passa a vigorar com a seguinte redação:
+"Exclusão Parcial de Serviço Hospitalar ou de Urgência e Emergência
+Art. 113-A. Deixar de cumprir as normas regulamentares da ANS referentes à exclusão parcial de serviços hospitalares ou serviços de urgência e emergência contratados em entidades hospitalares ou realizar tais exclusões sem a devida comunicação aos beneficiários.
+Sanção –multa de R$ 40.000,00.
+Parágrafo único. Caso o cometimento da infração descrita no caput produza efeitos de natureza coletiva, deve ser considerado o disposto no art. 9º desta Resolução para cálculo da multa a ser aplicada.”
+Art. 27. A Resolução Normativa nº 438, de 3 de dezembro de 2018, passa a vigorar acrescida do art. 8º-A, com a seguinte redação:
+"Art. 8º-A. A portabilidade de carências poderá ser exercida em decorrência do descredenciamento de entidade hospitalar, por redimensionamento por redução ou substituição, bem como no caso de retirada do serviço de urgência e emergência do prestador hospitalar, no município de residência do beneficiário ou no município de contratação do plano e deverá ser requerida no prazo de 180 (cento e oitenta) dias, a contar da data do descredenciamento, não se aplicando os requisitos de prazo de permanência e de compatibilidade por faixa de preço previstos, respectivamente, nos incisos III e V do caput do artigo 3° desta Resolução.
+§ 1º Na situação prevista no caput, a operadora do plano de origem deverá fornecer aos seus beneficiários, quando solicitada, por meio de quaisquer de seus canais de atendimento, as informações referentes ao plano de origem, tais como data de vinculação ao plano, número do registro da operadora, número do registro do plano, município de contratação do plano e os dados referentes ao descredenciamento do prestador hospitalar.
+§ 2º A portabilidade de carências tratada neste artigo não poderá ser exercida por beneficiários de planos contratados antes de 1° de janeiro de 1999 e não adaptados à Lei nº 9.656, de 1998, aplicando -se o requisito previsto no inciso IV do caput do artigo 3° desta Resolução.
+§ 3º O beneficiário que esteja vinculado ao plano de origem há menos de 300 (trezentos) dias, pode exercer a portabilidade de carências tratada neste artigo, sujeitando-se, quando cabíveis, aos períodos de carências do plano de destino descontados do tempo em que permaneceu no plano de origem, ressalvados os casos previstos no § 8º, do artigo 3º desta Resolução.
+§ 4º O beneficiário que esteja cumprindo cobertura parcial temporária no plano de origem, pode exercer a portabilidade de carências tratada neste artigo, sujeitando-se aos respectivos períodos remanescentes no plano de destino.
+§ 5º O beneficiário que esteja pagando agravo e que tenha menos de 24 (vinte e quatro) meses de contrato no plano de origem pode exercer a portabilidade de carências tratada neste artigo, podendo optar pelo cumprimento de cobertura parcial temporária referente ao tempo remanescente para completar o referido período de 24 (vinte e quatro) meses, ou pelo pagamento de agravo a ser negociado com a operadora do plano de destino."
+Art. 29. Esta Resolução Normativa entrará em vigor 01 de março de 2024 e será revisitada em 24 meses de sua vigência.
+Art. 29. Esta Resolução Normativa entrará em vigor 01 de setembro de 2024 e será revisitada em 24 meses de sua vigência. (Redação dada pela
+RN nº 598, de 09/02/2024
+, que entra em vigor em 15/02/2024).
+Art. 29. Esta Resolução Normativa entrará em vigor 31 de dezembro de 2024 e será revisitada em 24 meses de sua vigência. (Redação dada pela
+RN nº 609, de 21/06/202
+4, que entra em vigor em 24/06/2024).
+PAULO ROBERTO REBELLO FILHO
+Diretor-Presidente
+Este texto não substitui o texto normativo original e nem o de suas alterações, caso haja, publicados no Diário Oficial.
+ANEXO I
+ANEXO II
+CORRELAÇÕES:
+Lei nº 9.656, de 1998
+Lei nº 9.961, de 2000
+A RN nº 585 altera:
+RN nº 438, de 2018
+RN nº 489, de 2022
